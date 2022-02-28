@@ -2,219 +2,197 @@
 
 .iphone-13-13-pro-1 {
   background-color: var(--black);
-  height: 100vh;
-  margin: 0px;
-  min-height: 10033px;
-  min-width: 390px;
-  mix-blend-mode: normal;
+  height: 10033px;
   overflow: hidden;
-  overflow-x: hidden;
   position: relative;
-  width: 100%;
+  width: 390px;
 }
 
-.iphone-13-13-pro-1 .group-8-fqIZXY {
-  background-color: transparent;
-  height: 454px;
-  left: 54px;
+.iphone-13-13-pro-1 .group-8 {
+  height: 323px;
+  left: 122px;
   position: absolute;
-  top: -132px;
-  width: 472px;
+  top: -66px;
+  width: 336px;
 }
 
-.iphone-13-13-pro-1 .banking-for-your-business-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group10 {
+  height: 303px;
+  left: 31px;
+  position: absolute;
+  top: 353px;
+  width: 323px;
+}
+
+.iphone-13-13-pro-1 .banking-for-your-business {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-bold);
   font-size: var(--font-size-l);
-  font-style: normal;
   font-weight: 700;
-  height: 3.02%;
-  left: 7.95%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 3.52%;
-  width: 82.82%;
+  top: 0;
+  width: 323px;
 }
 
-.iphone-13-13-pro-1 .crypto-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .rectangle-5 {
+  height: 65px;
+  left: 29px;
+  position: absolute;
+  top: 238px;
+  width: 271px;
+}
+
+.iphone-13-13-pro-1 .get-started-2 {
+  left: 85px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 256px;
+  width: 125px;
+}
+
+.iphone-13-13-pro-1 .line-1 {
+  height: 8px;
+  left: 218px;
+  position: absolute;
+  top: 269px;
+  width: 26px;
+}
+
+.iphone-13-13-pro-1 .manage-your-business {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 108px;
+  width: 313px;
+}
+
+.iphone-13-13-pro-1 .crypto {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-bold);
   font-size: var(--font-size-l);
-  font-style: normal;
   font-weight: 700;
-  height: 0.40%;
-  left: 7.95%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 31px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 3.12%;
-  width: 82.82%;
+  top: 313px;
+  width: 323px;
 }
 
-.iphone-13-13-pro-1 .ellipse-7-fqIZXY {
+.iphone-13-13-pro-1 .line-container {
+  align-items: flex-start;
   background-color: var(--black);
   border-radius: 23px;
-  height: 46px;
+  display: flex;
+  flex-direction: column;
   left: 16px;
-  mix-blend-mode: normal;
+  min-height: 46px;
+  padding: 13.5px 7.5px;
   position: absolute;
   top: 24px;
   width: 46px;
 }
 
-.iphone-13-13-pro-1 .line-10-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .line-10-2 {
   height: 1px;
-  left: 25px;
-  position: absolute;
-  top: 38px;
   width: 28px;
 }
 
-.iphone-13-13-pro-1 .line-11-fqIZXY {
-  background-color: transparent;
-  height: 1px;
-  left: 25px;
-  position: absolute;
-  top: 47px;
+.iphone-13-13-pro-1 .line-11 {
+  height: 2px;
+  margin-left: 0.01px;
+  margin-top: 7px;
   width: 28px;
 }
 
-.iphone-13-13-pro-1 .line-12-fqIZXY {
-  background-color: transparent;
-  height: 1px;
-  left: 25px;
-  position: absolute;
-  top: 55px;
+.iphone-13-13-pro-1 .line-12 {
+  height: 2px;
+  margin-left: 0.01px;
+  margin-top: 6px;
   width: 28px;
 }
 
-.iphone-13-13-pro-1 .rectangle-5-fqIZXY {
-  background-color: transparent;
-  height: 0.65%;
-  left: 15.38%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .image-2-traced {
+  height: 16px;
+  left: 29px;
   position: absolute;
-  top: 5.89%;
-  width: 69.49%;
+  top: 759px;
+  width: 74px;
 }
 
-.iphone-13-13-pro-1 .get-started-fqIZXY {
-  background-color: transparent;
-  height: 0.30%;
-  left: 29.74%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .enverlogo-1-1-traced {
+  height: 12px;
+  left: 128px;
   position: absolute;
-  text-align: left;
-  top: 6.07%;
-  width: 32.05%;
+  top: 761px;
+  width: 80px;
 }
 
-.iphone-13-13-pro-1 .line-1-fqIZXY {
-  background-color: transparent;
-  height: 0px;
-  left: 64.04%;
+.iphone-13-13-pro-1 .group-8-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  left: 293px;
+  min-width: 73px;
   position: absolute;
-  top: 6.20%;
-  width: 6.54%;
+  top: 759px;
 }
 
-.iphone-13-13-pro-1 .image-2-traced-fqIZXY {
-  background-color: transparent;
-  height: 0px;
-  left: 7.44%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 7.56%;
-  width: 18.97%;
+.iphone-13-13-pro-1 .overlap-group {
+  height: 15px;
+  margin-top: -0.02px;
+  position: relative;
+  width: 71px;
 }
 
-.iphone-13-13-pro-1 .enverlogo-1-1-traced-fqIZXY {
-  background-color: transparent;
-  height: 0px;
-  left: 32.82%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .image-4-traced {
+  height: 15px;
+  left: 0;
   position: absolute;
-  top: 7.58%;
-  width: 20.51%;
+  top: 0;
+  width: 66px;
 }
 
-.iphone-13-13-pro-1 .group-8-mgPj2S {
-  background-color: transparent;
-  height: 0px;
-  left: 75.13%;
-  position: absolute;
-  top: 7.57%;
-  width: 18.64%;
-}
-
-.iphone-13-13-pro-1 .image-4-traced-PCrmTT {
-  background-color: transparent;
-  height: 100.29%;
-  left: -0.20%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 90.78%;
-}
-
-.iphone-13-13-pro-1 .pro-PCrmTT {
-  background-color: transparent;
+.iphone-13-13-pro-1 .pro {
   color: var(--black);
   font-family: var(--font-family-inter);
   font-size: 9px;
   font-style: italic;
   font-weight: 500;
-  height: auto;
   left: 48px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 3px;
   width: 23px;
 }
 
-.iphone-13-13-pro-1 .image-3-traced-fqIZXY {
-  background-color: transparent;
-  height: 0.35%;
-  left: 59.74%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .image-3-traced {
+  height: 35px;
+  left: 233px;
   position: absolute;
-  top: 7.48%;
-  width: 8.97%;
+  top: 750px;
+  width: 35px;
 }
 
-.iphone-13-13-pro-1 .trusted-by-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .trusted-by {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-regular);
   font-size: var(--font-size-xxs);
-  font-style: normal;
   font-weight: 400;
-  height: 0.33%;
-  left: 36.92%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 144px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 6.99%;
-  width: 26.41%;
+  top: 701px;
+  width: 103px;
 }
 
-.iphone-13-13-pro-1 .x24-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .x24 {
   height: 206px;
   left: 102px;
   position: absolute;
@@ -222,187 +200,190 @@
   width: 191px;
 }
 
-.iphone-13-13-pro-1 .the-first-platform-t-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group16 {
+  height: 325px;
+  left: -11px;
+  position: absolute;
+  top: 1138px;
+  width: 412px;
+}
+
+.iphone-13-13-pro-1 .the-first-platform-t {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: 28px;
-  font-style: normal;
   font-weight: 500;
-  height: 1.50%;
-  left: 5.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 31px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 11.34%;
-  width: 90.00%;
+  top: 0;
+  width: 351px;
 }
 
-.iphone-13-13-pro-1 .connect-your-wallet-we-handle-the-rest-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .connect-your-wallet {
   color: var(--nobel);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: 14px;
-  font-style: normal;
   font-weight: 500;
-  height: 0.77%;
-  left: -2.82%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 12.64%;
-  width: 105.64%;
+  top: 130px;
+  width: 412px;
 }
 
-.iphone-13-13-pro-1 .line-10-mgPj2S {
-  background-color: transparent;
-  height: 1.42%;
-  left: 49.62%;
+.iphone-13-13-pro-1 .line-10-3 {
+  height: 143px;
+  left: 204px;
   position: absolute;
-  top: 13.15%;
-  width: 0.77%;
+  top: 182px;
+  width: 3px;
 }
 
-.iphone-13-13-pro-1 .core-features-fqIZXY {
-  background-color: transparent;
-  height: 0.38%;
-  left: 20.77%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .core-features {
+  left: 81px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 15.02%;
-  width: 57.69%;
+  top: 1507px;
+  width: 225px;
 }
 
-.iphone-13-13-pro-1 .x25-fqIZXY {
-  background-color: transparent;
-  height: 1.50%;
-  left: 30.72%;
+.iphone-13-13-pro-1 .x25 {
+  height: 150px;
+  left: 120px;
   position: absolute;
-  top: 15.90%;
-  width: 37.82%;
+  top: 1595px;
+  width: 148px;
 }
 
-.iphone-13-13-pro-1 .create-and-manage-payroll-seamlessly-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 4.10%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .create-and-manage-payroll-seamlessly {
+  left: 16px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 17.87%;
-  width: 92.05%;
+  top: 1793px;
+  width: 359px;
 }
 
-.iphone-13-13-pro-1 .pay-your-employees-w-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 9.74%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .pay-your-employees-w {
+  left: 38px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 18.85%;
-  width: 81.54%;
+  top: 1891px;
+  width: 318px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-fqIZXY {
-  background-color: transparent;
-  height: 4.05%;
-  left: 8.21%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group17 {
+  align-items: center;
+  background-image: url(../img/rectangle-28@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 32px;
+  min-height: 406px;
+  padding: 31px 19px;
   position: absolute;
-  top: 20.12%;
-  width: 84.62%;
+  top: 2019px;
+  width: 330px;
 }
 
-.iphone-13-13-pro-1 .rectangle-29-fqIZXY {
-  background-color: transparent;
-  height: 4.05%;
-  left: 8.21%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 29.12%;
-  width: 84.62%;
-}
-
-.iphone-13-13-pro-1 .x22-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .x22 {
   height: 124px;
-  left: 126px;
-  position: absolute;
-  top: 2061px;
+  margin-right: 24.0px;
+  margin-top: 11px;
   width: 117px;
 }
 
-.iphone-13-13-pro-1 .transcation-logs-expense-reports-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 13.08%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+.iphone-13-13-pro-1 .transcation-logs-expense-reports {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-top: 34px;
+  min-height: 77px;
   text-align: center;
-  top: 22.12%;
-  width: 71.03%;
+  width: 277px;
 }
 
-.iphone-13-13-pro-1 .track-expenses-sense-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .track-expenses-sens {
   color: #515151;
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: var(--font-size-xxs);
-  font-style: normal;
   font-weight: 500;
-  height: 0.77%;
-  left: 17.95%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  letter-spacing: 0;
+  margin-right: 15.0px;
+  margin-top: 21px;
+  min-height: 77px;
   text-align: center;
-  top: 23.09%;
-  width: 61.28%;
+  width: 239px;
 }
 
-.iphone-13-13-pro-1 .billing-invoicing-and-accounting-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 17.95%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group8 {
+  height: 414px;
+  left: 32px;
   position: absolute;
-  text-align: center;
-  top: 26.50%;
-  width: 62.56%;
+  top: 2922px;
+  width: 330px;
 }
 
-.iphone-13-13-pro-1 .accounting-made-easy-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 16.92%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .rectangle-29 {
+  height: 406px;
+  left: 0;
   position: absolute;
-  text-align: center;
-  top: 27.55%;
-  width: 66.41%;
+  top: 0;
+  width: 330px;
 }
 
-.iphone-13-13-pro-1 .x22-mgPj2S {
-  background-color: transparent;
+.iphone-13-13-pro-1 .transact-securely-a {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 282px;
+}
+
+.iphone-13-13-pro-1 .create-cards-for-ven {
+  color: #575757;
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  left: 54px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 337px;
+  width: 233px;
+}
+
+.iphone-13-13-pro-1 .x22-1 {
+  height: 156px;
+  left: 92px;
+  position: absolute;
+  top: 41px;
+  width: 142px;
+}
+
+.iphone-13-13-pro-1 .billing-invoicing-and-accounting {
+  left: 70px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2659px;
+  width: 244px;
+}
+
+.iphone-13-13-pro-1 .accounting-made-easy {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2764px;
+  width: 259px;
+}
+
+.iphone-13-13-pro-1 .x22-2 {
   height: 127px;
   left: 127px;
   position: absolute;
@@ -410,100 +391,125 @@
   width: 115px;
 }
 
-.iphone-13-13-pro-1 .whats-special-fqIZXY {
-  background-color: transparent;
-  height: 1.14%;
-  left: 18.97%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group4 {
+  height: 1509px;
+  left: 25px;
   position: absolute;
-  text-align: left;
-  top: 35.10%;
-  width: 108.97%;
+  top: 3522px;
+  width: 474px;
 }
 
-.iphone-13-13-pro-1 .exchanges-the-best-rates-youve-ever-seen-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 12.05%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .whats-special {
+  left: 49px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: center;
-  top: 38.13%;
-  width: 77.44%;
+  top: 0;
+  width: 425px;
 }
 
-.iphone-13-13-pro-1 .convert-usd-to-btc-b-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 15.38%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .exchanges-the-best {
+  left: 22px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 39.45%;
-  width: 66.41%;
+  top: 304px;
+  width: 302px;
 }
 
-.iphone-13-13-pro-1 .x24-mgPj2S {
-  background-color: transparent;
+.iphone-13-13-pro-1 .convert-usd-to-btc {
+  left: 35px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 436px;
+  width: 259px;
+}
+
+.iphone-13-13-pro-1 .x24-1 {
   height: 156px;
-  left: 126px;
+  left: 102px;
   position: absolute;
-  top: 3627px;
+  top: 105px;
   width: 146px;
 }
 
-.iphone-13-13-pro-1 .x24-296upl {
-  background-color: transparent;
-  height: 164px;
-  left: 134px;
+.iphone-13-13-pro-1 .x24-2 {
+  height: 165px;
+  left: 109px;
   position: absolute;
-  top: 4114px;
+  top: 592px;
   width: 131px;
 }
 
-.iphone-13-13-pro-1 .x24-rCyXhK {
-  background-color: transparent;
+.iphone-13-13-pro-1 .x24-3 {
   height: 158px;
-  left: 127px;
+  left: 102px;
   position: absolute;
-  top: 4598px;
+  top: 1076px;
   width: 146px;
 }
 
-.iphone-13-13-pro-1 .simple-powerful-integrations-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 6.41%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .simple-powerful-integrations {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 47.76%;
-  width: 92.05%;
+  top: 1270px;
+  width: 359px;
 }
 
-.iphone-13-13-pro-1 .integrate-with-the-t-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 12.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .integrate-with-the-t {
+  left: 24px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 48.91%;
-  width: 77.44%;
+  top: 1385px;
+  width: 302px;
 }
 
-.iphone-13-13-pro-1 .x24-9WuP6I {
-  background-color: transparent;
+.iphone-13-13-pro-1 .rectangle-28 {
+  height: 479px;
+  left: 7px;
+  position: absolute;
+  top: 74px;
+  width: 334px;
+}
+
+.iphone-13-13-pro-1 .rectangle-29-1 {
+  height: 479px;
+  left: 7px;
+  position: absolute;
+  top: 552px;
+  width: 334px;
+}
+
+.iphone-13-13-pro-1 .collaborative-accounting {
+  left: 23px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 792px;
+  width: 302px;
+}
+
+.iphone-13-13-pro-1 .easily-monitor-crypt {
+  left: 44px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 911px;
+  width: 259px;
+}
+
+.iphone-13-13-pro-1 .rectangle-30 {
+  height: 479px;
+  left: 7px;
+  position: absolute;
+  top: 1030px;
+  width: 334px;
+}
+
+.iphone-13-13-pro-1 .x24-4 {
   height: 326px;
   left: 52px;
   position: absolute;
@@ -511,1227 +517,688 @@
   width: 286px;
 }
 
-.iphone-13-13-pro-1 .make-qevy-your-super-power-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 9.49%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .make-qevy-your-super-power {
+  left: 37px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 54.20%;
-  width: 84.87%;
+  top: 5438px;
+  width: 331px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-mgPj2S {
-  background-color: transparent;
-  height: 0.65%;
-  left: 15.64%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group9 {
+  align-items: center;
+  background-image: url(../img/rectangle-28-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 61px;
+  min-width: 271px;
+  padding: 17px 55.5px;
   position: absolute;
-  top: 33.81%;
-  width: 69.49%;
+  top: 3392px;
 }
 
-.iphone-13-13-pro-1 .get-started-mgPj2S {
-  background-color: transparent;
-  height: 0.30%;
-  left: 30.00%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 33.99%;
-  width: 32.05%;
+.iphone-13-13-pro-1 .get-started {
+  align-self: flex-end;
+  letter-spacing: 0;
+  min-height: 30px;
+  width: 125px;
 }
 
-.iphone-13-13-pro-1 .line-10-296upl {
-  background-color: transparent;
-  height: 0px;
-  left: 64.29%;
-  position: absolute;
-  top: 34.12%;
-  width: 6.54%;
+.iphone-13-13-pro-1 .line-10 {
+  height: 8px;
+  margin-left: 8px;
+  margin-top: 5.0px;
+  width: 26px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-296upl {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group14 {
+  align-items: flex-start;
   border-radius: 4px;
-  height: 0.67%;
-  left: 15.13%;
+  display: flex;
+  height: 67px;
+  left: 59px;
+  min-width: 273px;
+  padding: 18px 56px;
   position: absolute;
-  top: 55.07%;
-  width: 70.00%;
+  top: 5525px;
 }
 
-.iphone-13-13-pro-1 .get-started-296upl {
-  background-color: transparent;
-  height: 0.30%;
-  left: 29.74%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 55.26%;
-  width: 32.05%;
+.iphone-13-13-pro-1 .get-started-1 {
+  letter-spacing: 0;
+  min-height: 30px;
+  width: 125px;
 }
 
-.iphone-13-13-pro-1 .line-10-rCyXhK {
-  background-color: transparent;
-  height: 0px;
-  left: 64.04%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 55.39%;
-  width: 6.54%;
+.iphone-13-13-pro-1 .line-10-1 {
+  align-self: center;
+  height: 8px;
+  margin-left: 8px;
+  margin-top: 3.0px;
+  width: 26px;
 }
 
-.iphone-13-13-pro-1 .as-flexible-as-you-fqIZXY {
-  background-color: transparent;
-  height: 0.43%;
-  left: 13.85%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .as-flexible-as-you {
+  left: 54px;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 56.29%;
-  width: 72.82%;
+  top: 5648px;
+  width: 284px;
 }
 
-.iphone-13-13-pro-1 .startup-plans-fqIZXY {
-  background-color: transparent;
-  height: 0.37%;
-  left: 15.90%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .startup-plans {
+  left: 62px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 58.46%;
-  width: 50.00%;
+  top: 5865px;
+  width: 195px;
 }
 
-.iphone-13-13-pro-1 .small-businesses-fqIZXY {
-  background-color: transparent;
-  height: 0.37%;
-  left: 14.36%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .surname {
+  left: 56px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 57.29%;
-  width: 84.36%;
+  top: 5748px;
+  width: 329px;
 }
 
-.iphone-13-13-pro-1 .enterprise-fqIZXY {
-  background-color: transparent;
-  height: 0.37%;
-  left: 17.18%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 59.62%;
-  width: 84.36%;
-}
-
-.iphone-13-13-pro-1 .x10-m-in-monthly-volume-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .place {
   left: 67px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
+  top: 5982px;
+  width: 329px;
+}
+
+.iphone-13-13-pro-1 .x10-m-in-monthly-volume {
+  left: 67px;
+  letter-spacing: 0;
+  position: absolute;
   top: 6043px;
   width: 197px;
 }
 
-.iphone-13-13-pro-1 .post-first-raise-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .post-first-raise {
   left: 67px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 5926px;
   width: 197px;
 }
 
-.iphone-13-13-pro-1 .you-define-your-metrics-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .you-define-your-metrics {
   left: 62px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 5809px;
   width: 251px;
 }
 
-.iphone-13-13-pro-1 .card-10-fqIZXY {
-  background-color: transparent;
-  height: 2.19%;
-  left: 40.51%;
+.iphone-13-13-pro-1 .card-container {
+  height: 392px;
+  left: -45px;
   position: absolute;
-  top: 60.92%;
-  width: 89.74%;
+  top: 6112px;
+  width: 553px;
 }
 
-.iphone-13-13-pro-1 .rectangle-1-lpngPG {
+.iphone-13-13-pro-1 .card-10 {
+  align-items: flex-start;
   background-color: var(--black);
   border-radius: 12px;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
+  display: flex;
+  flex-direction: column;
+  left: 203px;
+  min-height: 220px;
+  padding: 25px 15px;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: 0;
+  width: 350px;
 }
 
-.iphone-13-13-pro-1 .card-details-lpngPG {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
-  position: absolute;
-  top: 11.82%;
-  width: 90.35%;
+.iphone-13-13-pro-1 .flex-row {
+  align-items: center;
+  display: flex;
+  height: 14px;
+  margin-left: 2px;
+  min-width: 293px;
 }
 
-.iphone-13-13-pro-1 .visa-QFWx6X {
-  background-color: transparent;
-  height: 8.33%;
-  left: 85.66%;
-  position: absolute;
-  top: 0px;
-  width: 13.76%;
+.iphone-13-13-pro-1 .qevy {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 66px;
 }
 
-.iphone-13-13-pro-1 .qevy-QFWx6X {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.87%;
+.iphone-13-13-pro-1 .visa {
+  height: 1px;
+  margin-left: 226px;
+  margin-top: 0.5px;
+  width: 1px;
 }
 
-.iphone-13-13-pro-1 .name-expiry-QFWx6X {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  position: absolute;
-  top: 91.67%;
-  width: 100.57%;
+.iphone-13-13-pro-1 .card-number {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-left: 2px;
+  margin-top: 63px;
+  min-width: 207px;
 }
 
-.iphone-13-13-pro-1 .jack-lewis-gg8UWx {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
+.iphone-13-13-pro-1 .number {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 37px;
 }
 
-.iphone-13-13-pro-1 .x0621-gg8UWx {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
+.iphone-13-13-pro-1 .number-1 {
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-height: 22px;
+  min-width: 37px;
 }
 
-.iphone-13-13-pro-1 .card-number-QFWx6X {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
-  position: absolute;
-  top: 45.83%;
-  width: 65.46%;
+.iphone-13-13-pro-1 .number-2 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 22px;
+  min-width: 34px;
 }
 
-.iphone-13-13-pro-1 .x1234-H3Kvxh {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
+.iphone-13-13-pro-1 .number-3 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 22px;
 }
 
-.iphone-13-13-pro-1 .x5678-H3Kvxh {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
+.iphone-13-13-pro-1 .name-expiry {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 14px;
+  margin-top: 55px;
+  min-width: 318px;
 }
 
-.iphone-13-13-pro-1 .x9101-H3Kvxh {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
+.iphone-13-13-pro-1 .name {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 62px;
 }
 
-.iphone-13-13-pro-1 .x1121-H3Kvxh {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
+.iphone-13-13-pro-1 .text {
+  letter-spacing: 0;
+  margin-left: 221px;
+  min-height: 14px;
+  width: 31px;
 }
 
-.iphone-13-13-pro-1 .card-3-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .card-3 {
+  align-items: flex-end;
+  background-image: url(../img/card-3-1@2x.svg);
+  background-size: 100% 100%;
   border-radius: 10px;
-  height: 2.19%;
-  left: 12.05%;
-  mix-blend-mode: normal;
+  display: flex;
+  height: 220px;
+  left: 92px;
+  min-width: 350px;
+  padding: 9px 14.7px;
   position: absolute;
-  top: 61.75%;
-  width: 89.74%;
+  top: 83px;
 }
 
-.iphone-13-13-pro-1 .card-3-pHGMuB {
-  background-color: transparent;
-  height: 2.19%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 89.74%;
+.iphone-13-13-pro-1 .overlap-group1 {
+  height: 185px;
+  position: relative;
+  width: 319px;
 }
 
-.iphone-13-13-pro-1 .card-details-pHGMuB {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
+.iphone-13-13-pro-1 .card-details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 3px;
+  min-height: 168px;
   position: absolute;
-  top: 11.82%;
-  width: 90.29%;
+  top: 0;
+  width: 316px;
 }
 
-.iphone-13-13-pro-1 .qevy-0cXWoI {
-  background-color: transparent;
+.iphone-13-13-pro-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  min-width: 314px;
+}
+
+.iphone-13-13-pro-1 .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 99px;
+  width: 207px;
+}
+
+.iphone-13-13-pro-1 .qevy-1 {
   color: var(--black);
   font-family: var(--font-family-craftwork_sans-bold);
   font-size: var(--font-size-xxxs);
-  font-style: normal;
   font-weight: 700;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.89%;
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 66px;
 }
 
-.iphone-13-13-pro-1 .ask-mastercard-logo-0cXWoI {
-  background-color: transparent;
-  height: 18.15%;
-  left: 83.54%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 15.82%;
+.iphone-13-13-pro-1 .card-number-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-top: 63px;
+  min-width: 207px;
 }
 
-.iphone-13-13-pro-1 .name-expiry-0cXWoI {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  position: absolute;
-  top: 91.67%;
-  width: 100.63%;
+.iphone-13-13-pro-1 .ask-mastercard-logo {
+  height: 31px;
+  margin-left: 57px;
+  width: 50px;
 }
 
-.iphone-13-13-pro-1 .jack-lewis-y62Gh0 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
+.iphone-13-13-pro-1 .name-expiry-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  margin-top: 55px;
+  min-width: 318px;
 }
 
-.iphone-13-13-pro-1 .x0621-y62Gh0 {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .ellipse-3 {
+  height: 151px;
+  left: 105px;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
+  top: 34px;
+  width: 152px;
 }
 
-.iphone-13-13-pro-1 .card-number-0cXWoI {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
+.iphone-13-13-pro-1 .ellipse-6 {
+  height: 150px;
+  left: 0;
   position: absolute;
-  top: 45.83%;
-  width: 65.51%;
+  top: 34px;
+  width: 149px;
 }
 
-.iphone-13-13-pro-1 .x1234-9PZ0Cp {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.iphone-13-13-pro-1 .x5678-9PZ0Cp {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.iphone-13-13-pro-1 .x9101-9PZ0Cp {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
-}
-
-.iphone-13-13-pro-1 .x1121-9PZ0Cp {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
-}
-
-.iphone-13-13-pro-1 .shape-1-pHGMuB {
-  background-color: transparent;
-  height: 68.64%;
-  left: 34.35%;
-  position: absolute;
-  top: 27.27%;
-  width: 43.14%;
-}
-
-.iphone-13-13-pro-1 .ellipse-3-3lmHq6 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100.33%;
-}
-
-.iphone-13-13-pro-1 .shape-4-pHGMuB {
-  background-color: transparent;
-  height: 94.76%;
-  left: -4.29%;
-  position: absolute;
-  top: 13.98%;
-  width: 59.56%;
-}
-
-.iphone-13-13-pro-1 .ellipse-6-tn7ew1 {
-  background-color: transparent;
-  height: 71.47%;
-  left: 14.38%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 14.26%;
-  width: 71.23%;
-}
-
-.iphone-13-13-pro-1 .card-7-fqIZXY {
-  background-color: transparent;
-  height: 2.19%;
-  left: -11.54%;
-  position: absolute;
-  top: 62.63%;
-  width: 89.74%;
-}
-
-.iphone-13-13-pro-1 .rectangle-1-v9qqxn {
+.iphone-13-13-pro-1 .card-7 {
+  align-items: flex-start;
   background-color: var(--black);
   border-radius: 12px;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 220px;
+  padding: 25px 15px;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: 172px;
+  width: 350px;
 }
 
-.iphone-13-13-pro-1 .card-details-v9qqxn {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
-  position: absolute;
-  top: 11.82%;
-  width: 90.35%;
+.iphone-13-13-pro-1 .flex-row-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 1.4px;
+  min-width: 315px;
 }
 
-.iphone-13-13-pro-1 .visa-JwRgDn {
-  background-color: transparent;
-  height: 8.33%;
-  left: 85.66%;
-  position: absolute;
-  top: 0px;
-  width: 13.76%;
+.iphone-13-13-pro-1 .visa-1 {
+  align-self: flex-end;
+  height: 14px;
+  margin-left: 205px;
+  width: 44px;
 }
 
-.iphone-13-13-pro-1 .qevy-JwRgDn {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group19 {
+  align-items: center;
+  background-image: url(../img/rectangle-28-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 61px;
+  min-width: 271px;
+  padding: 17px 55.5px;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.87%;
+  top: 6585px;
 }
 
-.iphone-13-13-pro-1 .name-expiry-JwRgDn {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
+.iphone-13-13-pro-1 .overlap-group21 {
+  height: 173px;
+  left: -75px;
   position: absolute;
-  top: 91.67%;
-  width: 100.57%;
+  top: 6712px;
+  width: 540px;
 }
 
-.iphone-13-13-pro-1 .jack-lewis-zCAAlS {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
-}
-
-.iphone-13-13-pro-1 .x0621-zCAAlS {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
-}
-
-.iphone-13-13-pro-1 .card-number-JwRgDn {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
-  position: absolute;
-  top: 45.83%;
-  width: 65.46%;
-}
-
-.iphone-13-13-pro-1 .x1234-Ji0tiD {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.iphone-13-13-pro-1 .x5678-Ji0tiD {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.iphone-13-13-pro-1 .x9101-Ji0tiD {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
-}
-
-.iphone-13-13-pro-1 .x1121-Ji0tiD {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
-}
-
-.iphone-13-13-pro-1 .rectangle-28-rCyXhK {
-  background-color: transparent;
-  height: 0.65%;
-  left: 15.64%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 65.63%;
-  width: 69.49%;
-}
-
-.iphone-13-13-pro-1 .get-started-rCyXhK {
-  background-color: transparent;
-  height: 0.30%;
-  left: 30.00%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 65.81%;
-  width: 32.05%;
-}
-
-.iphone-13-13-pro-1 .line-10-9WuP6I {
-  background-color: transparent;
-  height: 0px;
-  left: 64.29%;
-  position: absolute;
-  top: 65.94%;
-  width: 6.54%;
-}
-
-.iphone-13-13-pro-1 .rectangle-28-9WuP6I {
-  background-color: transparent;
-  height: 4.77%;
-  left: 8.21%;
-  position: absolute;
-  top: 35.84%;
-  width: 85.64%;
-}
-
-.iphone-13-13-pro-1 .rectangle-29-mgPj2S {
-  background-color: transparent;
-  height: 4.77%;
-  left: 8.21%;
-  position: absolute;
-  top: 40.61%;
-  width: 85.64%;
-}
-
-.iphone-13-13-pro-1 .collaborative-accounting-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 12.31%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .our-users-are-happy {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 43.00%;
-  width: 77.44%;
+  top: 0;
+  width: 540px;
 }
 
-.iphone-13-13-pro-1 .easily-monitor-crypt-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 17.69%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .unsplashx6-s3-z0v-zxj4 {
+  height: 58px;
+  left: 99px;
   position: absolute;
-  text-align: center;
-  top: 44.18%;
-  width: 66.41%;
+  top: 106px;
+  width: 58px;
 }
 
-.iphone-13-13-pro-1 .rectangle-30-fqIZXY {
-  background-color: transparent;
-  height: 4.77%;
-  left: 8.21%;
+.iphone-13-13-pro-1 .name-1 {
+  left: 181px;
+  letter-spacing: 0;
   position: absolute;
-  top: 45.37%;
-  width: 85.64%;
-}
-
-.iphone-13-13-pro-1 .transact-securely-an-fqIZXY {
-  background-color: transparent;
-  height: 0.77%;
-  left: 14.36%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 31.26%;
-  width: 72.31%;
-}
-
-.iphone-13-13-pro-1 .create-cards-for-ven-fqIZXY {
-  background-color: transparent;
-  color: #575757;
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 500;
-  height: 0.77%;
-  left: 22.05%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 32.48%;
-  width: 59.74%;
-}
-
-.iphone-13-13-pro-1 .x22-296upl {
-  background-color: transparent;
-  height: 156px;
-  left: 124px;
-  position: absolute;
-  top: 2963px;
-  width: 142px;
-}
-
-.iphone-13-13-pro-1 .manage-your-business-fqIZXY {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-craftwork_sans-regular);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 400;
-  height: 0.77%;
-  left: 8.46%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 4.59%;
-  width: 80.26%;
-}
-
-.iphone-13-13-pro-1 .our-users-are-happy-fqIZXY {
-  background-color: transparent;
-  height: 1.14%;
-  left: -19.23%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 66.90%;
-  width: 138.46%;
-}
-
-.iphone-13-13-pro-1 .rectangle-28-nLCfB6 {
-  background-color: transparent;
-  height: 0.27%;
-  left: 4.87%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 69.54%;
-  width: 45.38%;
-}
-
-.iphone-13-13-pro-1 .rectangle-31-fqIZXY {
-  background-color: transparent;
-  height: 0.27%;
-  left: 51.54%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 69.29%;
-  width: 39.49%;
-}
-
-.iphone-13-13-pro-1 .rectangle-29-296upl {
-  background-color: transparent;
-  height: 0.43%;
-  left: 104.87%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 69.54%;
-  width: 15.38%;
-}
-
-.iphone-13-13-pro-1 .before-this-there-wa-fqIZXY {
-  background-color: transparent;
-  color: transparent;
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-  height: 1.15%;
-  left: 6.41%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 68.82%;
-  width: 88.72%;
-}
-
-.iphone-13-13-pro-1 .span0-0VSnS1 {
-  font-style: normal;
-}
-
-.iphone-13-13-pro-1 .span1-0VSnS1 {
-  color: var(--white);
-  font-family: var(--font-family-craftwork_sans-bold);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.iphone-13-13-pro-1 .span2-0VSnS1 {
-  color: var(--black);
-  font-family: var(--font-family-craftwork_sans-bold);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.iphone-13-13-pro-1 .span3-0VSnS1 {
-  font-style: normal;
-}
-
-.iphone-13-13-pro-1 .unsplashx6-s3-z0v-zxj4-fqIZXY {
-  background-color: transparent;
-  height: 0.58%;
-  left: 6.15%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 67.96%;
-  width: 14.87%;
-}
-
-.iphone-13-13-pro-1 .kyle-joyce-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 106px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6811px;
+  top: 99px;
   width: 172px;
 }
 
-.iphone-13-13-pro-1 .ceo-enver-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 106px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .ceo-enver {
+  left: 181px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 6863px;
-  width: auto;
+  top: 151px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-wu2VUa {
-  background-color: transparent;
-  height: 0.26%;
-  left: 27.69%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group5 {
+  height: 115px;
+  left: 19px;
   position: absolute;
-  top: 72.10%;
-  width: 57.95%;
+  top: 6905px;
+  width: 352px;
 }
 
-.iphone-13-13-pro-1 .fable-runs-its-entir-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .rectangle-28-1 {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 177px;
+}
+
+.iphone-13-13-pro-1 .rectangle-31 {
+  height: 27px;
+  left: 182px;
+  position: absolute;
+  top: 47px;
+  width: 154px;
+}
+
+.iphone-13-13-pro-1 .before-this-there-w {
   color: transparent;
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: var(--font-size-xs);
-  font-style: normal;
   font-weight: 500;
-  height: 0.48%;
-  left: 7.69%;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  left: 6px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 71.85%;
-  width: 87.18%;
+  top: 0;
+  width: 346px;
 }
 
-.iphone-13-13-pro-1 .span0-77axKy {
-  font-style: normal;
+.iphone-13-13-pro-1 .span1-1 {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-bold);
+  font-weight: 700;
 }
 
-.iphone-13-13-pro-1 .span1-77axKy {
+.iphone-13-13-pro-1 .span2 {
   color: var(--black);
-  font-style: normal;
+  font-family: var(--font-family-craftwork_sans-bold);
+  font-weight: 700;
 }
 
-.iphone-13-13-pro-1 .span2-77axKy {
-  font-style: normal;
-}
-
-.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy-fqIZXY {
-  background-color: transparent;
-  height: 0.58%;
-  left: 11.03%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .rectangle-29-2 {
+  height: 1px;
+  left: 439px;
   position: absolute;
-  top: 70.75%;
-  width: 14.87%;
+  top: 6998px;
+  width: 1px;
 }
 
-.iphone-13-13-pro-1 .mehbub-hussain-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .overlap-group13 {
+  height: 51px;
+  left: 30px;
+  position: absolute;
+  top: 7209px;
+  width: 340px;
+}
+
+.iphone-13-13-pro-1 .rectangle-28-2 {
+  height: 26px;
+  left: 78px;
+  position: absolute;
+  top: 25px;
+  width: 226px;
+}
+
+.iphone-13-13-pro-1 .fable-runs-its-enti {
+  color: transparent;
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.iphone-13-13-pro-1 .span1 {
+  color: var(--black);
+}
+
+.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy {
+  height: 58px;
+  left: 43px;
+  position: absolute;
+  top: 7098px;
+  width: 58px;
+}
+
+.iphone-13-13-pro-1 .mehbub-hussain {
   left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 7087px;
   width: 215px;
 }
 
-.iphone-13-13-pro-1 .first-engineer-fable-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .first-engineer-fable {
   left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 7178px;
-  width: auto;
 }
 
-.iphone-13-13-pro-1 .rectangle-32-fqIZXY {
-  background-color: transparent;
-  height: 0.26%;
-  left: 11.28%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .overlap-group11 {
+  height: 26px;
+  left: 44px;
   position: absolute;
-  top: 74.16%;
-  width: 40.77%;
+  top: 7440px;
+  width: 345px;
 }
 
-.iphone-13-13-pro-1 .market-leader-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .rectangle-32 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.iphone-13-13-pro-1 .market-leader {
   color: var(--black);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: var(--font-size-xs);
-  font-style: normal;
   font-weight: 500;
-  height: 0.24%;
-  left: 12.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 5px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 74.16%;
-  width: 87.18%;
+  top: 0;
+  width: 340px;
 }
 
-.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy-mgPj2S {
-  background-color: transparent;
-  height: 0.58%;
-  left: 11.03%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy-1 {
+  height: 58px;
+  left: 43px;
   position: absolute;
-  top: 73.24%;
-  width: 14.87%;
+  top: 7348px;
+  width: 58px;
 }
 
-.iphone-13-13-pro-1 .david-hidalgo-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .overlap-group3 {
+  height: 74px;
   left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
-  text-align: left;
   top: 7337px;
   width: 226px;
 }
 
-.iphone-13-13-pro-1 .dhgeth-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .name-2 {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 7389px;
-  width: auto;
+  top: 0;
+  width: 226px;
 }
 
-.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy-296upl {
-  background-color: transparent;
-  height: 0.58%;
-  left: 11.03%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .dhgeth {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  top: 75.19%;
-  width: 14.87%;
+  top: 52px;
 }
 
-.iphone-13-13-pro-1 .ansh-nanda-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .unsplash-qt0og-pnh-gwy-2 {
+  height: 58px;
+  left: 43px;
   position: absolute;
-  text-align: left;
+  top: 7544px;
+  width: 58px;
+}
+
+.iphone-13-13-pro-1 .overlap-group15 {
+  height: 74px;
+  left: 123px;
+  position: absolute;
   top: 7533px;
   width: 226px;
 }
 
-.iphone-13-13-pro-1 .ceo-un1feed-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 123px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .ansh-nanda {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 7585px;
-  width: auto;
+  top: 0;
+  width: 226px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-IdenKx {
-  background-color: transparent;
-  height: 0.27%;
-  left: 35.64%;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .ceo-un1feed {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  top: 76.17%;
-  width: 28.72%;
+  top: 52px;
 }
 
-.iphone-13-13-pro-1 .un1-feed-is-built-on-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group22 {
+  height: 27px;
+  left: 41px;
+  position: absolute;
+  top: 7642px;
+  width: 278px;
+}
+
+.iphone-13-13-pro-1 .rectangle-28-3 {
+  height: 27px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.iphone-13-13-pro-1 .un1-feed-is-built-on {
   color: transparent;
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: var(--font-size-xxs);
-  font-style: normal;
   font-weight: 500;
-  height: 0px;
-  left: 10.51%;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 76.19%;
-  width: 71.28%;
+  top: 2px;
+  width: 278px;
 }
 
-.iphone-13-13-pro-1 .span0-i2OvI4 {
+.iphone-13-13-pro-1 .span-1 {
   color: var(--white);
-  font-style: normal;
 }
 
-.iphone-13-13-pro-1 .span1-i2OvI4 {
-  color: var(--black);
-  font-style: normal;
+.iphone-13-13-pro-1 .overlap-group18 {
+  height: 122px;
+  left: -75px;
+  position: absolute;
+  top: 7774px;
+  width: 540px;
 }
 
-.iphone-13-13-pro-1 .span2-i2OvI4 {
-  color: var(--white);
-  font-style: normal;
-}
-
-.iphone-13-13-pro-1 .join-the-conversation-fqIZXY {
-  background-color: transparent;
-  height: 1.14%;
-  left: -19.23%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .join-the-conversation {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 77.48%;
-  width: 138.46%;
+  top: 0;
+  width: 540px;
 }
 
-.iphone-13-13-pro-1 .line-10-nLCfB6 {
-  background-color: transparent;
-  height: 0px;
-  left: 77.05%;
+.iphone-13-13-pro-1 .line-10-4 {
+  height: 16px;
+  left: 376px;
   position: absolute;
-  top: 78.37%;
-  width: 8.72%;
+  top: 88px;
+  width: 34px;
 }
 
-.iphone-13-13-pro-1 .join-discord-server-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 101px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .join-discord-server {
+  left: 176px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 7857px;
+  top: 83px;
   width: 187px;
 }
 
-.iphone-13-13-pro-1 .group-9-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .group-9 {
+  align-items: flex-start;
+  display: flex;
   height: 52px;
-  left: 20px;
+  left: 95px;
+  min-width: 350px;
   position: absolute;
-  top: 7844px;
-  width: 350px;
+  top: 70px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-XrMxnf {
-  background-color: transparent;
+.iphone-13-13-pro-1 .image-1-traced {
   height: 52px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 350px;
+  margin-left: -1px;
+  margin-top: -1.21px;
+  width: 52px;
 }
 
-.iphone-13-13-pro-1 .image-1-traced-XrMxnf {
-  background-color: transparent;
-  height: 100.80%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: -0.40%;
-  width: 14.86%;
-}
-
-.iphone-13-13-pro-1 .line-11-mgPj2S {
-  background-color: transparent;
-  height: 0px;
-  left: 77.05%;
-  position: absolute;
-  top: 79.16%;
-  width: 8.72%;
-}
-
-.iphone-13-13-pro-1 .open-an-account-fqIZXY {
-  background-color: transparent;
-  height: auto;
-  left: 101px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 7937px;
-  width: 187px;
-}
-
-.iphone-13-13-pro-1 .group-10-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group2 {
   height: 52px;
   left: 20px;
   position: absolute;
@@ -1739,1958 +1206,1688 @@
   width: 350px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-Rk87GI {
-  background-color: transparent;
+.iphone-13-13-pro-1 .line-11-1 {
+  height: 16px;
+  left: 280px;
+  position: absolute;
+  top: 18px;
+  width: 34px;
+}
+
+.iphone-13-13-pro-1 .open-an-account {
+  left: 81px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 13px;
+  width: 187px;
+}
+
+.iphone-13-13-pro-1 .group-10 {
   height: 52px;
-  left: 0px;
-  position: relative;
-  top: 0px;
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 350px;
 }
 
-.iphone-13-13-pro-1 .x24-nLCfB6 {
-  background-color: transparent;
-  height: 864px;
-  left: -97px;
-  position: absolute;
-  top: 8247px;
-  width: 797px;
-}
-
-.iphone-13-13-pro-1 .rectangle-33-fqIZXY {
-  background-color: var(--black);
-  height: 442px;
+.iphone-13-13-pro-1 .overlap-group12 {
+  height: 1081px;
   left: 40px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 8030px;
+  width: 456px;
+}
+
+.iphone-13-13-pro-1 .x24-5 {
+  height: 864px;
+  left: 66px;
+  position: absolute;
+  top: 217px;
+  width: 390px;
+}
+
+.iphone-13-13-pro-1 .rectangle-33 {
+  background-color: var(--black);
+  height: 442px;
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 310px;
 }
 
-.iphone-13-13-pro-1 .we-are-an-open-commu-fqIZXY {
-  background-color: transparent;
-  height: 1.91%;
-  left: 13.85%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.iphone-13-13-pro-1 .we-are-an-open-commu {
+  left: 14px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 80.30%;
-  width: 74.62%;
+  top: 27px;
+  width: 291px;
 }
 
-.iphone-13-13-pro-1 .line-10-wu2VUa {
-  background-color: transparent;
+.iphone-13-13-pro-1 .line-10-5 {
   height: 1px;
-  left: -52px;
+  left: -13px;
   position: absolute;
   top: 9156px;
-  width: 468px;
+  width: 390px;
 }
 
-.iphone-13-13-pro-1 .qevy-fqIZXY {
-  background-color: transparent;
+.iphone-13-13-pro-1 .qevy-2 {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: 100px;
-  font-style: normal;
   font-weight: 500;
-  height: 0.69%;
-  left: 14.62%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 57px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 92.08%;
-  width: 182.31%;
+  top: 9238px;
+  width: 711px;
 }
 
-.iphone-13-13-pro-1 .rectangle-28-6XVrLz {
-  background-color: transparent;
+.iphone-13-13-pro-1 .overlap-group20 {
+  align-items: flex-start;
   border-radius: 4px;
-  height: 0.67%;
-  left: 14.36%;
+  display: flex;
+  height: 67px;
+  left: 56px;
+  min-width: 273px;
+  padding: 18px 56px;
   position: absolute;
-  top: 93.70%;
-  width: 70.00%;
+  top: 9401px;
 }
 
-.iphone-13-13-pro-1 .get-started-9WuP6I {
-  background-color: transparent;
-  height: 0.30%;
-  left: 28.97%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 93.89%;
-  width: 32.05%;
-}
-
-.iphone-13-13-pro-1 .line-10-IdenKx {
-  background-color: transparent;
-  height: 0px;
-  left: 63.27%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 94.02%;
-  width: 6.54%;
-}
-
-.iphone-13-13-pro-1 .california-office-95-fqIZXY {
-  background-color: transparent;
-  height: auto;
+.iphone-13-13-pro-1 .california-office-95 {
   left: 79px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
   top: 9634px;
-  width: auto;
 }
 /* screen - macbook-pro-14-2 */
 
 .macbook-pro-14-2 {
   background-color: var(--black);
-  height: 100vh;
-  margin: 0px;
-  min-height: 8683px;
-  min-width: 1512px;
-  mix-blend-mode: normal;
+  height: 8683px;
   overflow: hidden;
-  overflow-x: hidden;
   position: relative;
-  width: 100%;
+  width: 1512px;
 }
 
-.macbook-pro-14-2 .card-9-j85od3 {
-  background-color: transparent;
-  height: 2.53%;
-  left: 59.13%;
+.macbook-pro-14-2 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 65px;
+  min-height: 6242px;
   position: absolute;
-  top: 57.23%;
-  width: 23.15%;
+  top: -85px;
+  width: 1510px;
 }
 
-.macbook-pro-14-2 .rectangle-1-RzDw6g {
-  background-color: var(--black);
-  border-radius: 12px;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 6081px;
+  width: 1510px;
+}
+
+.macbook-pro-14-2 .overlap-group18-1 {
+  height: 1086px;
+  position: relative;
+  width: 1510px;
+}
+
+.macbook-pro-14-2 .overlap-group10-1 {
+  height: 1013px;
+  left: 0;
   position: absolute;
-  top: 0px;
-  width: 100%;
+  top: 0;
+  width: 1510px;
 }
 
-.macbook-pro-14-2 .card-details-RzDw6g {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
+.macbook-pro-14-2 .qevyy {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  top: 11.82%;
-  width: 90.35%;
+  top: 118px;
+  width: 236px;
 }
 
-.macbook-pro-14-2 .visa-0bTugY {
-  background-color: transparent;
-  height: 8.33%;
-  left: 85.66%;
+.macbook-pro-14-2 .about {
+  left: 163px;
+  letter-spacing: 0;
   position: absolute;
-  top: 0px;
-  width: 13.76%;
+  top: 129px;
+  width: 236px;
 }
 
-.macbook-pro-14-2 .qevy-0bTugY {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .product {
+  left: 273px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.87%;
+  top: 129px;
+  width: 236px;
 }
 
-.macbook-pro-14-2 .name-expiry-0bTugY {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
+.macbook-pro-14-2 .pricing {
+  left: 399px;
+  letter-spacing: 0;
   position: absolute;
-  top: 91.67%;
-  width: 100.57%;
+  top: 129px;
+  width: 236px;
 }
 
-.macbook-pro-14-2 .jack-lewis-p0Kydr {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .discord {
+  left: 513px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
+  top: 129px;
+  width: 236px;
 }
 
-.macbook-pro-14-2 .x0621-p0Kydr {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 43px;
+  min-height: 1013px;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
+  top: 0;
+  width: 1467px;
 }
 
-.macbook-pro-14-2 .card-number-0bTugY {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
-  position: absolute;
-  top: 45.83%;
-  width: 65.46%;
+.macbook-pro-14-2 .overlap-group-container {
+  align-items: center;
+  display: flex;
+  margin-top: -1px;
+  min-width: 1462px;
 }
 
-.macbook-pro-14-2 .x1234-vjKqWK {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
+.macbook-pro-14-2 .your-business-container {
+  height: 303px;
+  margin-top: 142.19px;
+  position: relative;
+  width: 580px;
 }
 
-.macbook-pro-14-2 .x5678-vjKqWK {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.macbook-pro-14-2 .x9101-vjKqWK {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
-}
-
-.macbook-pro-14-2 .x1121-vjKqWK {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
-}
-
-.macbook-pro-14-2 .rectangle-15-j85od3 {
-  background-color: transparent;
-  height: 0.45%;
-  left: 71.23%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 71.54%;
-  width: 14.88%;
-}
-
-.macbook-pro-14-2 .rectangle-27-j85od3 {
-  background-color: transparent;
-  height: 0.50%;
-  left: 57.47%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 71.95%;
-  width: 7.01%;
-}
-
-.macbook-pro-14-2 .rectangle-10-j85od3 {
-  background-color: transparent;
-  height: 5.55%;
-  left: 15.94%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 30.21%;
-  width: 34.33%;
-}
-
-.macbook-pro-14-2 .rectangle-11-j85od3 {
-  background-color: transparent;
-  height: 5.55%;
-  left: 50.26%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 24.66%;
-  width: 34.33%;
-}
-
-.macbook-pro-14-2 .qevyy-j85od3 {
-  background-color: transparent;
-  height: 0.79%;
-  left: 4.30%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0.38%;
-  width: 15.61%;
-}
-
-.macbook-pro-14-2 .about-j85od3 {
-  background-color: transparent;
-  height: 0.79%;
-  left: 15.08%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0.51%;
-  width: 15.61%;
-}
-
-.macbook-pro-14-2 .product-j85od3 {
-  background-color: transparent;
-  height: 0.79%;
-  left: 22.35%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0.51%;
-  width: 15.61%;
-}
-
-.macbook-pro-14-2 .pricing-j85od3 {
-  background-color: transparent;
-  height: 0.79%;
-  left: 30.69%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0.51%;
-  width: 15.61%;
-}
-
-.macbook-pro-14-2 .discord-j85od3 {
-  background-color: transparent;
-  height: 0.79%;
-  left: 38.23%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0.51%;
-  width: 15.61%;
-}
-
-.macbook-pro-14-2 .core-features-j85od3 {
-  background-color: transparent;
-  height: 1.31%;
-  left: 15.94%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 23.34%;
-  width: 59.92%;
-}
-
-.macbook-pro-14-2 .whats-special-j85od3 {
-  background-color: transparent;
-  height: 1.31%;
-  left: 61.71%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 38.89%;
-  width: 28.11%;
-}
-
-.macbook-pro-14-2 .as-flexible-as-you-j85od3 {
-  background-color: transparent;
-  height: 1.31%;
-  left: 9.72%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 55.38%;
-  width: 28.77%;
-}
-
-.macbook-pro-14-2 .our-users-are-happy-j85od3 {
-  background-color: transparent;
-  height: 1.31%;
-  left: 50.26%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 67.74%;
-  width: 35.71%;
-}
-
-.macbook-pro-14-2 .join-the-conversation-j85od3 {
-  background-color: transparent;
-  height: 1.31%;
-  left: 9.72%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 79.89%;
-  width: 35.71%;
-}
-
-.macbook-pro-14-2 .header-j85od3 {
-  background-color: transparent;
-  height: 11.67%;
-  left: 7.14%;
-  position: absolute;
-  top: -0.98%;
-  width: 97.02%;
-}
-
-.macbook-pro-14-2 .euro-xMFIlh {
-  background-color: transparent;
-  height: 63.18%;
-  left: 67.35%;
-  position: absolute;
-  top: 16.16%;
-  width: 32.31%;
-}
-
-.macbook-pro-14-2 .dollar-xMFIlh {
-  background-color: transparent;
-  height: 83.42%;
-  left: 39.67%;
-  position: absolute;
-  top: 0px;
-  width: 32.65%;
-}
-
-.macbook-pro-14-2 .crypto-banking-for-your-business-xMFIlh {
-  background-color: transparent;
+.macbook-pro-14-2 .crypto-banking-for-your-business {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-bold);
   font-size: var(--font-size-xl);
-  font-style: normal;
   font-weight: 700;
-  height: 29.91%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 33.66%;
-  width: 39.54%;
+  top: 0;
+  width: 580px;
 }
 
-.macbook-pro-14-2 .manage-your-business-xMFIlh {
-  background-color: transparent;
-  height: 7.60%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .manage-your-business-1 {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 52.62%;
-  width: 39.54%;
+  top: 192px;
+  width: 580px;
 }
 
-.macbook-pro-14-2 .trusted-by-xMFIlh {
-  background-color: transparent;
-  height: 7.60%;
-  left: 4.09%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 92.40%;
-  width: 39.54%;
-}
-
-.macbook-pro-14-2 .rectangle-5-j85od3 {
-  background-color: transparent;
-  height: 0.75%;
-  left: 7.14%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 6.90%;
-  width: 17.92%;
-}
-
-.macbook-pro-14-2 .get-started-j85od3 {
-  background-color: transparent;
-  height: 0.35%;
-  left: 10.85%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 7.11%;
-  width: 8.27%;
-}
-
-.macbook-pro-14-2 .line-1-j85od3 {
-  background-color: transparent;
-  height: 0px;
-  left: 19.69%;
-  position: absolute;
-  top: 7.26%;
-  width: 1.69%;
-}
-
-.macbook-pro-14-2 .rectangle-18-j85od3 {
-  background-color: transparent;
-  height: 0.75%;
-  left: 41.27%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 37.01%;
-  width: 17.92%;
-}
-
-.macbook-pro-14-2 .get-started-RU3Ffg {
-  background-color: transparent;
-  height: 0.35%;
-  left: 44.97%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 37.22%;
-  width: 8.27%;
-}
-
-.macbook-pro-14-2 .line-2-j85od3 {
-  background-color: transparent;
-  height: 0px;
-  left: 53.82%;
-  position: absolute;
-  top: 37.37%;
-  width: 1.69%;
-}
-
-.macbook-pro-14-2 .rectangle-24-j85od3 {
-  background-color: transparent;
-  height: 0.75%;
-  left: 41.01%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 64.13%;
-  width: 17.92%;
-}
-
-.macbook-pro-14-2 .get-started-9VHYkJ {
-  background-color: transparent;
-  height: 0.35%;
-  left: 44.71%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 64.33%;
-  width: 8.27%;
-}
-
-.macbook-pro-14-2 .line-8-j85od3 {
-  background-color: transparent;
-  height: 0px;
-  left: 53.55%;
-  position: absolute;
-  top: 64.48%;
-  width: 1.69%;
-}
-
-.macbook-pro-14-2 .group-4-j85od3 {
-  background-color: transparent;
-  height: 36.08%;
-  left: 15.54%;
-  position: absolute;
-  top: 19.38%;
-  width: 84.91%;
-}
-
-.macbook-pro-14-2 .group-2-ORjcCl {
-  background-color: transparent;
-  height: 27.74%;
-  left: 5.45%;
-  position: absolute;
-  top: 0px;
-  width: 75.24%;
-}
-
-.macbook-pro-14-2 .x24-WABaZL {
-  background-color: transparent;
-  height: 17.32%;
-  left: 0px;
-  position: absolute;
-  top: 59.11%;
-  width: 15.27%;
-}
-
-.macbook-pro-14-2 .create-and-manage-payroll-seamlessly-WABaZL {
-  background-color: transparent;
-  height: 8.86%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 80.67%;
-  width: 37.16%;
-}
-
-.macbook-pro-14-2 .pay-your-employees-w-WABaZL {
-  background-color: transparent;
-  height: 8.86%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 91.14%;
-  width: 42.65%;
-}
-
-.macbook-pro-14-2 .connect-your-wallet-we-handle-the-rest-WABaZL {
-  background-color: transparent;
-  height: 8.86%;
-  left: 28.47%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 0px;
-  width: 42.65%;
-}
-
-.macbook-pro-14-2 .transcation-logs-expense-reports-WABaZL {
-  background-color: transparent;
-  height: 8.86%;
-  left: 56.31%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 80.67%;
-  width: 41.72%;
-}
-
-.macbook-pro-14-2 .track-expenses-sense-WABaZL {
-  background-color: transparent;
-  color: #515151;
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-  height: 8.86%;
-  left: 56.31%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 91.14%;
-  width: 42.65%;
-}
-
-.macbook-pro-14-2 .transact-securely-an-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 5.30%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 38.75%;
-  width: 27.96%;
-}
-
-.macbook-pro-14-2 .create-cards-for-ven-ORjcCl {
-  background-color: transparent;
-  color: #575757;
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-  height: 2.46%;
-  left: 5.30%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 41.66%;
-  width: 32.71%;
-}
-
-.macbook-pro-14-2 .billing-invoicing-and-accounting-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 48.37%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 38.75%;
-  width: 27.96%;
-}
-
-.macbook-pro-14-2 .accounting-made-easy-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 48.37%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 41.66%;
-  width: 32.71%;
-}
-
-.macbook-pro-14-2 .x16-ORjcCl {
-  background-color: transparent;
-  height: 195px;
-  left: 68px;
-  position: absolute;
-  top: 1008px;
-  width: 178px;
-}
-
-.macbook-pro-14-2 .x17-ORjcCl {
-  background-color: transparent;
-  height: 190px;
-  left: 610px;
-  position: absolute;
-  top: 489px;
-  width: 181px;
-}
-
-.macbook-pro-14-2 .exchanges-the-best-rates-youve-ever-seen-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 0.23%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66.49%;
-  width: 27.96%;
-}
-
-.macbook-pro-14-2 .convert-usd-to-btc-b-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 0.31%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 69.40%;
-  width: 32.09%;
-}
-
-.macbook-pro-14-2 .collaborative-accounting-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 52.97%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66.49%;
-  width: 24.54%;
-}
-
-.macbook-pro-14-2 .easily-monitor-crypt-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 52.89%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 69.40%;
-  width: 32.09%;
-}
-
-.macbook-pro-14-2 .simple-powerful-integrations-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 81.98%;
-  width: 27.96%;
-}
-
-.macbook-pro-14-2 .integrate-with-the-t-ORjcCl {
-  background-color: transparent;
-  height: 2.46%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 84.88%;
-  width: 32.71%;
-}
-
-.macbook-pro-14-2 .x21-ORjcCl {
-  background-color: transparent;
-  height: 176px;
-  left: 620px;
-  position: absolute;
-  top: 1020px;
-  width: 159px;
-}
-
-.macbook-pro-14-2 .group-ORjcCl {
-  background-color: transparent;
-  height: 142px;
-  left: 758px;
-  position: absolute;
-  top: 2990px;
-  width: 558px;
-}
-
-.macbook-pro-14-2 .m-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 9px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 3px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .a-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 31px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 21px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .k-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 35px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .e-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 63px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 48px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .text_label-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 83px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 58px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .q-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 92px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 68px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .e-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 117px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 79px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .v-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 138px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 87px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .y-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 159px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 94px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .text_label-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 181px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 99px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .y-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 192px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 102px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .o-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 218px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 105px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .u-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 241px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 106px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .r-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 262px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 106px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .text_label-HmcCjz {
-  background-color: transparent;
-  height: auto;
-  left: 280px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 105px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .s-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 291px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 102px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .u-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 316px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 98px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .p-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 336px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 92px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .e-HmcCjz {
-  background-color: transparent;
-  height: auto;
-  left: 358px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 84px;
-  width: auto;
+.macbook-pro-14-2 .overlap-group1-1 {
+  height: 845px;
+  margin-left: 2px;
+  position: relative;
+  width: 880px;
 }
 
-.macbook-pro-14-2 .r-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 379px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .euro {
+  height: 640px;
+  left: 406px;
   position: absolute;
-  text-align: left;
-  top: 76px;
-  width: auto;
+  top: 165px;
+  width: 474px;
 }
 
-.macbook-pro-14-2 .text_label-ajaYVb {
-  background-color: transparent;
-  height: auto;
-  left: 395px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .dollar {
+  height: 845px;
+  left: 0;
   position: absolute;
-  text-align: left;
-  top: 70px;
-  width: auto;
+  top: 0;
+  width: 479px;
 }
 
-.macbook-pro-14-2 .p-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 404px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 61px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .o-pd5EHt {
-  background-color: transparent;
-  height: auto;
-  left: 426px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 47px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .w-bR98G0 {
-  background-color: transparent;
-  height: auto;
-  left: 443px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 31px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .e-ajaYVb {
-  background-color: transparent;
-  height: auto;
-  left: 465px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 14px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .r-HmcCjz {
-  background-color: transparent;
-  height: auto;
-  left: 481px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: -1px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .rectangle-7-j85od3 {
-  background-color: transparent;
-  height: 5.52%;
-  left: 10.65%;
-  position: absolute;
-  top: 40.20%;
-  width: 39.62%;
-}
-
-.macbook-pro-14-2 .rectangle-9-j85od3 {
-  background-color: transparent;
-  height: 5.52%;
-  left: 10.65%;
-  position: absolute;
-  top: 45.71%;
-  width: 39.62%;
-}
-
-.macbook-pro-14-2 .rectangle-8-j85od3 {
-  background-color: transparent;
-  height: 5.52%;
-  left: 50.20%;
-  position: absolute;
-  top: 40.20%;
-  width: 39.62%;
+.macbook-pro-14-2 .trusted-by-1 {
+  letter-spacing: 0;
+  margin-left: 60px;
+  margin-top: 92px;
+  min-height: 77px;
+  width: 580px;
 }
 
-.macbook-pro-14-2 .x23-j85od3 {
-  background-color: transparent;
-  height: 326px;
-  left: 916px;
+.macbook-pro-14-2 .rectangle-5-1 {
+  height: 65px;
+  left: 43px;
   position: absolute;
-  top: 4060px;
-  width: 286px;
+  top: 684px;
+  width: 271px;
 }
 
-.macbook-pro-14-2 .group-6-j85od3 {
-  background-color: transparent;
-  height: 4.07%;
-  left: 18.19%;
+.macbook-pro-14-2 .get-started-3 {
+  left: 99px;
+  letter-spacing: 0;
   position: absolute;
-  top: 57.68%;
-  width: 57.14%;
+  top: 702px;
+  width: 125px;
 }
 
-.macbook-pro-14-2 .card-3-DFWI6y {
-  background-color: transparent;
-  border-radius: 10px;
-  height: 62.32%;
-  left: 58.80%;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .line-1-1 {
+  height: 8px;
+  left: 232px;
   position: absolute;
-  top: 12.46%;
-  width: 40.51%;
+  top: 715px;
+  width: 26px;
 }
 
-.macbook-pro-14-2 .card-3-huikh1 {
-  background-color: transparent;
-  height: 62.32%;
-  left: 0px;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .overlap-group4-1 {
+  height: 37px;
+  left: 1054px;
   position: absolute;
-  top: 0px;
-  width: 40.51%;
+  top: 1028px;
+  width: 222px;
 }
 
-.macbook-pro-14-2 .card-details-huikh1 {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
+.macbook-pro-14-2 .image-4-traced-1 {
+  height: 37px;
+  left: 0;
   position: absolute;
-  top: 11.82%;
-  width: 90.29%;
+  top: 0;
+  width: 203px;
 }
 
-.macbook-pro-14-2 .qevy-jRW07f {
-  background-color: transparent;
+.macbook-pro-14-2 .pro-1 {
   color: var(--black);
-  font-family: var(--font-family-craftwork_sans-bold);
-  font-size: var(--font-size-xxxs);
-  font-style: normal;
-  font-weight: 700;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 500;
+  left: 152px;
+  letter-spacing: 0;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.89%;
+  top: 9px;
+  width: 70px;
 }
 
-.macbook-pro-14-2 .ask-mastercard-logo-jRW07f {
-  background-color: transparent;
-  height: 18.15%;
-  left: 83.54%;
-  mix-blend-mode: normal;
+.macbook-pro-14-2 .image-3-traced-1 {
+  height: 73px;
+  left: 816px;
   position: absolute;
-  top: 0px;
-  width: 15.82%;
+  top: 1013px;
+  width: 79px;
 }
 
-.macbook-pro-14-2 .name-expiry-jRW07f {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
+.macbook-pro-14-2 .traced-container {
+  align-items: flex-end;
+  display: flex;
+  height: 38px;
+  left: 110px;
+  min-width: 526px;
   position: absolute;
-  top: 91.67%;
-  width: 100.63%;
+  top: 1027px;
 }
 
-.macbook-pro-14-2 .jack-lewis-WLVxig {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
+.macbook-pro-14-2 .image-2-traced-1 {
+  height: 38px;
+  width: 182px;
 }
 
-.macbook-pro-14-2 .x0621-WLVxig {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
+.macbook-pro-14-2 .enverlogo-1-1-traced-1 {
+  height: 26px;
+  margin-bottom: 2.95px;
+  margin-left: 156px;
+  width: 188px;
 }
 
-.macbook-pro-14-2 .card-number-jRW07f {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
-  position: absolute;
-  top: 45.83%;
-  width: 65.51%;
-}
-
-.macbook-pro-14-2 .x1234-icBkPV {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.macbook-pro-14-2 .x5678-icBkPV {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.macbook-pro-14-2 .x9101-icBkPV {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
-}
-
-.macbook-pro-14-2 .x1121-icBkPV {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
-}
-
-.macbook-pro-14-2 .shape-1-huikh1 {
-  background-color: transparent;
-  height: 68.64%;
-  left: 34.35%;
-  position: absolute;
-  top: 27.27%;
-  width: 43.14%;
-}
-
-.macbook-pro-14-2 .ellipse-3-YelSWL {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100.33%;
-}
-
-.macbook-pro-14-2 .shape-4-huikh1 {
-  background-color: transparent;
-  height: 94.76%;
-  left: -4.29%;
-  position: absolute;
-  top: 13.98%;
-  width: 59.56%;
-}
-
-.macbook-pro-14-2 .ellipse-6-NDcJt6 {
-  background-color: transparent;
-  height: 71.47%;
-  left: 14.38%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 14.26%;
-  width: 71.23%;
-}
-
-.macbook-pro-14-2 .startup-plans-DFWI6y {
-  background-color: transparent;
-  height: 10.48%;
-  left: 0.69%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 35.98%;
-  width: 22.57%;
-}
-
-.macbook-pro-14-2 .small-businesses-DFWI6y {
-  background-color: transparent;
-  height: 10.48%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 38.08%;
-}
-
-.macbook-pro-14-2 .enterprise-DFWI6y {
-  background-color: transparent;
-  height: 10.48%;
-  left: 1.27%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 69.97%;
-  width: 38.08%;
-}
-
-.macbook-pro-14-2 .card-7-DFWI6y {
-  background-color: transparent;
-  height: 62.32%;
-  left: 48.15%;
-  position: absolute;
-  top: 37.68%;
-  width: 40.51%;
-}
-
-.macbook-pro-14-2 .rectangle-1-YCuxBG {
-  background-color: var(--black);
-  border-radius: 12px;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.macbook-pro-14-2 .card-details-YCuxBG {
-  background-color: transparent;
-  height: 76.36%;
-  left: 5.14%;
-  position: absolute;
-  top: 11.82%;
-  width: 90.35%;
-}
-
-.macbook-pro-14-2 .visa-375W0d {
-  background-color: transparent;
-  height: 8.33%;
-  left: 85.66%;
-  position: absolute;
-  top: 0px;
-  width: 13.76%;
-}
-
-.macbook-pro-14-2 .qevy-375W0d {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 20.87%;
-}
-
-.macbook-pro-14-2 .name-expiry-375W0d {
-  background-color: transparent;
-  height: 8.33%;
-  left: 0px;
-  position: absolute;
-  top: 91.67%;
-  width: 100.57%;
-}
-
-.macbook-pro-14-2 .jack-lewis-MkY7WG {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 19.50%;
-}
-
-.macbook-pro-14-2 .x0621-MkY7WG {
-  background-color: transparent;
-  height: 100%;
-  left: 88.99%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 9.75%;
-}
-
-.macbook-pro-14-2 .card-number-375W0d {
-  background-color: transparent;
-  height: 13.10%;
-  left: 0px;
-  position: absolute;
-  top: 45.83%;
-  width: 65.46%;
-}
-
-.macbook-pro-14-2 .x1234-xFkJ2N {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.macbook-pro-14-2 .x5678-xFkJ2N {
-  background-color: transparent;
-  height: 100%;
-  left: 27.54%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 17.87%;
-}
-
-.macbook-pro-14-2 .x9101-xFkJ2N {
-  background-color: transparent;
-  height: 100%;
-  left: 55.56%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 16.43%;
-}
-
-.macbook-pro-14-2 .x1121-xFkJ2N {
-  background-color: transparent;
-  height: 100%;
-  left: 82.13%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 14.01%;
-}
-
-.macbook-pro-14-2 .rectangle-16-j85od3 {
-  background-color: transparent;
-  height: 0.50%;
-  left: 68.98%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 75.79%;
-  width: 12.83%;
-}
-
-.macbook-pro-14-2 .rectangle-17-j85od3 {
-  background-color: transparent;
-  height: 0.50%;
-  left: 11.18%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 72.36%;
-  width: 29.37%;
-}
-
-.macbook-pro-14-2 .rectangle-26-j85od3 {
-  background-color: transparent;
-  height: 0.50%;
-  left: 36.57%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 71.95%;
-  width: 3.97%;
-}
-
-.macbook-pro-14-2 .rectangle-23-j85od3 {
-  background-color: transparent;
-  height: 0.46%;
-  left: 11.18%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 75.95%;
-  width: 13.96%;
-}
-
-.macbook-pro-14-2 .before-this-there-wa-j85od3 {
-  background-color: transparent;
-  height: 1.32%;
-  left: 11.44%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 71.12%;
-  width: 32.01%;
-}
-
-.macbook-pro-14-2 .span0-OASLBA {
-}
-
-.macbook-pro-14-2 .span1-OASLBA {
-  color: var(--white);
-  font-family: var(--font-family-craftwork_sans-bold);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.macbook-pro-14-2 .span2-OASLBA {
-  color: var(--black);
-  font-family: var(--font-family-craftwork_sans-bold);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.macbook-pro-14-2 .span3-OASLBA {
-}
-
-.macbook-pro-14-2 .unsplashx6-s3-z0v-zxj4-j85od3 {
-  background-color: transparent;
-  height: 0.90%;
-  left: 10.38%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 69.94%;
-  width: 5.16%;
-}
-
-.macbook-pro-14-2 .fable-runs-its-entir-j85od3 {
-  background-color: transparent;
-  height: 1.24%;
-  left: 57.94%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 71.12%;
-  width: 29.37%;
-}
-
-.macbook-pro-14-2 .span0-eRe9bQ {
-}
-
-.macbook-pro-14-2 .span1-eRe9bQ {
-}
-
-.macbook-pro-14-2 .span2-eRe9bQ {
-}
-
-.macbook-pro-14-2 .unsplash-qt0og-pnh-gwy-j85od3 {
-  background-color: transparent;
-  height: 0.90%;
-  left: 56.88%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 69.94%;
-  width: 5.16%;
-}
-
-.macbook-pro-14-2 .market-leader-j85od3 {
-  background-color: transparent;
-  height: 0.33%;
-  left: 11.44%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 75.95%;
-  width: 14.29%;
-}
-
-.macbook-pro-14-2 .span0-F0FUSV {
-}
-
-.macbook-pro-14-2 .span1-F0FUSV {
-}
-
-.macbook-pro-14-2 .text_label-j85od3 {
-  background-color: transparent;
-  height: 0.32%;
-  left: 10.12%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 75.78%;
-  width: 1.06%;
-}
-
-.macbook-pro-14-2 .text_label-RU3Ffg {
-  background-color: transparent;
-  height: 0.32%;
-  left: 25.20%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 75.79%;
-  width: 1.06%;
-}
-
-.macbook-pro-14-2 .we-are-an-open-commu-j85od3 {
-  background-color: transparent;
-  height: 2.21%;
-  left: 10.45%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 86.86%;
-  width: 46.96%;
-}
-
-.macbook-pro-14-2 .unsplashf3vw-a-xn7pgg-j85od3 {
-  background-color: transparent;
-  height: 0.90%;
-  left: 10.38%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 74.78%;
-  width: 5.16%;
-}
-
-.macbook-pro-14-2 .un1-feed-is-built-on-j85od3 {
-  background-color: transparent;
-  height: 0.89%;
-  left: 58.27%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 75.80%;
-  width: 30.29%;
-}
-
-.macbook-pro-14-2 .span0-xny2t0 {
-}
-
-.macbook-pro-14-2 .span1-xny2t0 {
-}
-
-.macbook-pro-14-2 .span2-xny2t0 {
-}
-
-.macbook-pro-14-2 .unsplash_h-qfq-ht0-m-tg-j85od3 {
-  background-color: transparent;
-  height: 0.90%;
-  left: 56.88%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 74.63%;
-  width: 5.16%;
-}
-
-.macbook-pro-14-2 .rectangle-19-j85od3 {
-  background-color: transparent;
-  border-radius: 4px;
-  height: 0.77%;
-  left: 40.94%;
-  position: absolute;
-  top: 53.06%;
-  width: 18.06%;
-}
-
-.macbook-pro-14-2 .get-started-TA1J6o {
-  background-color: transparent;
-  height: 0.35%;
-  left: 44.71%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 53.28%;
-  width: 8.27%;
-}
-
-.macbook-pro-14-2 .line-3-j85od3 {
-  background-color: transparent;
-  height: 0px;
-  left: 53.55%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 53.43%;
-  width: 1.69%;
-}
-
-.macbook-pro-14-2 .line-6-j85od3 {
-  background-color: transparent;
-  height: 0.35%;
-  left: 43.39%;
-  position: absolute;
-  top: 82.60%;
-  width: 4.43%;
-}
-
-.macbook-pro-14-2 .line-7-j85od3 {
-  background-color: transparent;
-  height: 0.35%;
-  left: 43.39%;
-  position: absolute;
-  top: 84.16%;
-  width: 4.43%;
-}
-
-.macbook-pro-14-2 .x10-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .x10 {
   height: 206px;
-  left: 684px;
-  position: absolute;
-  top: 1163px;
+  margin-right: 80.34px;
+  margin-top: 162px;
   width: 191px;
 }
 
-.macbook-pro-14-2 .the-first-platform-t-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .the-first-platform-t-1 {
+  align-self: flex-start;
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: 65px;
-  font-style: normal;
   font-weight: 500;
-  height: 1.73%;
-  left: 6.88%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
+  letter-spacing: 0;
+  margin-left: 39px;
+  margin-top: 111px;
+  min-height: 150px;
+  text-align: center;
+  width: 1314px;
+}
+
+.macbook-pro-14-2 .overlap-group7 {
+  height: 3240px;
+  margin-left: 25.92px;
+  margin-top: 53px;
+  position: relative;
+  width: 1372px;
+}
+
+.macbook-pro-14-2 .rectangle-10 {
+  height: 482px;
+  left: 94px;
+  position: absolute;
+  top: 940px;
+  width: 519px;
+}
+
+.macbook-pro-14-2 .rectangle-11 {
+  height: 482px;
+  left: 613px;
+  position: absolute;
+  top: 458px;
+  width: 519px;
+}
+
+.macbook-pro-14-2 .core-features-1 {
+  left: 94px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 344px;
+  width: 906px;
+}
+
+.macbook-pro-14-2 .whats-special-1 {
+  left: 786px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1694px;
+  width: 425px;
+}
+
+.macbook-pro-14-2 .as-flexible-as-you-1 {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 17.04%;
-  width: 86.90%;
+  top: 3126px;
+  width: 435px;
 }
 
-.macbook-pro-14-2 .line-4-j85od3 {
-  background-color: transparent;
-  height: 1.65%;
-  left: 52.08%;
+.macbook-pro-14-2 .rectangle-18 {
+  height: 65px;
+  left: 477px;
   position: absolute;
-  top: 20.42%;
-  width: 0px;
+  top: 1531px;
+  width: 271px;
 }
 
-.macbook-pro-14-2 .rectangle-21-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .get-started-4 {
+  left: 533px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1549px;
+  width: 125px;
+}
+
+.macbook-pro-14-2 .line-2 {
+  height: 8px;
+  left: 666px;
+  position: absolute;
+  top: 1562px;
+  width: 26px;
+}
+
+.macbook-pro-14-2 .group-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 88px;
+  min-height: 3133px;
+  position: absolute;
+  top: 0;
+  width: 1284px;
+}
+
+.macbook-pro-14-2 .overlap-group2-1 {
+  height: 869px;
+  margin-left: 70.0px;
+  position: relative;
+  width: 966px;
+}
+
+.macbook-pro-14-2 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 869px;
+  position: absolute;
+  top: 0;
+  width: 966px;
+}
+
+.macbook-pro-14-2 .connect-your-wallet-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  min-height: 77px;
+  text-align: center;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 356px;
+  margin-left: -0.46px;
+  margin-top: 436px;
+  min-width: 956px;
+}
+
+.macbook-pro-14-2 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 356px;
+  width: 413px;
+}
+
+.macbook-pro-14-2 .x24-6 {
+  height: 151px;
+  width: 148px;
+}
+
+.macbook-pro-14-2 .create-and-manage-payroll-seamlessly-1 {
+  letter-spacing: 0;
+  margin-left: 0.46px;
+  margin-top: 37px;
+  min-height: 77px;
+  width: 359px;
+}
+
+.macbook-pro-14-2 .pay-your-employees-w-1 {
+  letter-spacing: 0;
+  margin-left: 1.46px;
+  margin-top: 14px;
+  min-height: 77px;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .expense-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 131px;
+  min-height: 168px;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .transcation-logs-expense-reports-1 {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 403px;
+}
+
+.macbook-pro-14-2 .track-expenses-sens-1 {
+  color: #515151;
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 14px;
+  min-height: 77px;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .x17 {
+  height: 191px;
+  left: 540px;
+  position: absolute;
+  top: 488px;
+  width: 181px;
+}
+
+.macbook-pro-14-2 .flex-row-5 {
+  align-items: center;
+  display: flex;
+  margin-left: 67.77px;
+  margin-top: 138px;
+  min-width: 711px;
+}
+
+.macbook-pro-14-2 .x16 {
+  height: 196px;
+  width: 178px;
+}
+
+.macbook-pro-14-2 .x21 {
+  height: 176px;
+  margin-left: 374px;
+  margin-top: 4.34px;
+  width: 159px;
+}
+
+.macbook-pro-14-2 .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  margin-left: 68.0px;
+  margin-top: 11px;
+  min-width: 912px;
+}
+
+.macbook-pro-14-2 .transact-securely-a-1 {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 359px;
+}
+
+.macbook-pro-14-2 .billing-invoicing-and-accounting-1 {
+  letter-spacing: 0;
+  margin-left: 194px;
+  min-height: 77px;
+  width: 359px;
+}
+
+.macbook-pro-14-2 .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  margin-left: 68.0px;
+  margin-top: 14px;
+  min-width: 973px;
+}
+
+.macbook-pro-14-2 .create-cards-for-ven-1 {
+  color: #575757;
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 420px;
+}
+
+.macbook-pro-14-2 .accounting-made-easy-1 {
+  letter-spacing: 0;
+  margin-left: 133px;
+  min-height: 77px;
+  width: 420px;
+}
+
+.macbook-pro-14-2 .flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  margin-left: 3px;
+  margin-top: 701px;
+  min-width: 992px;
+}
+
+.macbook-pro-14-2 .exchanges-the-best-1 {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 359px;
+}
+
+.macbook-pro-14-2 .collaborative-accounting-1 {
+  letter-spacing: 0;
+  margin-left: 318px;
+  min-height: 77px;
+  width: 315px;
+}
+
+.macbook-pro-14-2 .flex-row-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  margin-left: 4px;
+  margin-top: 14px;
+  min-width: 1087px;
+}
+
+.macbook-pro-14-2 .convert-usd-to-btc-1 {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .easily-monitor-crypt-1 {
+  letter-spacing: 0;
+  margin-left: 263px;
+  min-height: 77px;
+  width: 412px;
+}
+
+.macbook-pro-14-2 .simple-powerful-integrations-1 {
+  letter-spacing: 0;
+  margin-top: 317px;
+  min-height: 77px;
+  width: 359px;
+}
+
+.macbook-pro-14-2 .integrate-with-the-t-1 {
+  letter-spacing: 0;
+  margin-top: 14px;
+  min-height: 77px;
+  width: 420px;
+}
+
+.macbook-pro-14-2 .group {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 142px;
+  margin-right: -32.0px;
+  margin-top: 254px;
+  min-width: 558px;
+  padding: 0 9.2px;
+}
+
+.macbook-pro-14-2 .overlap-group-1 {
+  align-self: flex-start;
+  height: 68px;
+  margin-top: 3.34px;
+  position: relative;
+  width: 54px;
+}
+
+.macbook-pro-14-2 .m {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-pro-14-2 .a {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 18px;
+}
+
+.macbook-pro-14-2 .k {
+  left: 38px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 32px;
+}
+
+.macbook-pro-14-2 .e {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 9.33px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .text_label {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 9.74px;
+  min-height: 36px;
+  min-width: 7px;
+}
+
+.macbook-pro-14-2 .price {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 29.58px;
+  min-height: 36px;
+  min-width: 23px;
+}
+
+.macbook-pro-14-2 .e-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 51.76px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .v {
+  letter-spacing: 0;
+  margin-bottom: 18.8px;
+  margin-left: 3px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .y {
+  letter-spacing: 0;
+  margin-bottom: 11.89px;
+  margin-left: 3px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .text_label-1 {
+  letter-spacing: 0;
+  margin-bottom: 7.67px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 7px;
+}
+
+.macbook-pro-14-2 .y-1 {
+  letter-spacing: 0;
+  margin-bottom: 4.06px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 22px;
+}
+
+.macbook-pro-14-2 .o {
+  letter-spacing: 0;
+  margin-bottom: 1.11px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .u {
+  letter-spacing: 0;
+  margin-bottom: 0.09px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 17px;
+}
+
+.macbook-pro-14-2 .r {
+  letter-spacing: 0;
+  margin-bottom: 0.49px;
+  margin-left: 5px;
+  min-height: 36px;
+  min-width: 13px;
+}
+
+.macbook-pro-14-2 .text_label-2 {
+  letter-spacing: 0;
+  margin-bottom: 1.6px;
+  margin-left: 5px;
+  min-height: 36px;
+  min-width: 7px;
+}
+
+.macbook-pro-14-2 .price-1 {
+  letter-spacing: 0;
+  margin-bottom: 3.91px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 20px;
+}
+
+.macbook-pro-14-2 .u-1 {
+  letter-spacing: 0;
+  margin-bottom: 8.33px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 17px;
+}
+
+.macbook-pro-14-2 .p {
+  letter-spacing: 0;
+  margin-bottom: 14.26px;
+  margin-left: 4px;
+  min-height: 36px;
+  min-width: 19px;
+}
+
+.macbook-pro-14-2 .e-2 {
+  letter-spacing: 0;
+  margin-bottom: 21.92px;
+  margin-left: 3px;
+  min-height: 36px;
+  min-width: 18px;
+}
+
+.macbook-pro-14-2 .r-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 3px;
+  margin-top: 46.44px;
+  min-height: 36px;
+  min-width: 13px;
+}
+
+.macbook-pro-14-2 .text_label-3 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 3px;
+  margin-top: 33.29px;
+  min-height: 36px;
+  min-width: 7px;
+}
+
+.macbook-pro-14-2 .price-2 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 14.89px;
+  min-height: 36px;
+  min-width: 21px;
+}
+
+.macbook-pro-14-2 .overlap-group1-2 {
+  align-self: flex-start;
+  height: 84px;
+  margin-top: -1.06px;
+  position: relative;
+  width: 68px;
+}
+
+.macbook-pro-14-2 .o-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+}
+
+.macbook-pro-14-2 .w {
+  left: 17px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 32px;
+}
+
+.macbook-pro-14-2 .e-3 {
+  left: 39px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 15px;
+}
+
+.macbook-pro-14-2 .r-2 {
+  left: 55px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-pro-14-2 .rectangle-7 {
+  height: 479px;
+  left: 14px;
+  position: absolute;
+  top: 1808px;
+  width: 599px;
+}
+
+.macbook-pro-14-2 .rectangle-9 {
+  height: 479px;
+  left: 14px;
+  position: absolute;
+  top: 2286px;
+  width: 599px;
+}
+
+.macbook-pro-14-2 .rectangle-8 {
+  height: 479px;
+  left: 612px;
+  position: absolute;
+  top: 1808px;
+  width: 599px;
+}
+
+.macbook-pro-14-2 .x23 {
+  height: 326px;
+  left: 769px;
+  position: absolute;
+  top: 2377px;
+  width: 286px;
+}
+
+.macbook-pro-14-2 .rectangle-19 {
+  border-radius: 4px;
+  height: 67px;
+  left: 472px;
+  position: absolute;
+  top: 2924px;
+  width: 273px;
+}
+
+.macbook-pro-14-2 .get-started-5 {
+  left: 529px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2943px;
+  width: 125px;
+}
+
+.macbook-pro-14-2 .line-3 {
+  height: 8px;
+  left: 662px;
+  position: absolute;
+  top: 2956px;
+  width: 26px;
+}
+
+.macbook-pro-14-2 .line-4 {
+  height: 144px;
+  left: 640px;
+  position: absolute;
+  top: 90px;
+  width: 3px;
+}
+
+.macbook-pro-14-2 .x12 {
+  height: 156px;
+  left: 94px;
+  position: absolute;
+  top: 1892px;
+  width: 146px;
+}
+
+.macbook-pro-14-2 .x14 {
+  height: 199px;
+  left: 744px;
+  position: absolute;
+  top: 1868px;
+  width: 158px;
+}
+
+.macbook-pro-14-2 .x11 {
+  height: 168px;
+  left: 88px;
+  position: absolute;
+  top: 2354px;
+  width: 156px;
+}
+
+.macbook-pro-14-2 .make-qevy-your-super-power-1 {
+  left: 711px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2726px;
+  width: 447px;
+}
+
+.macbook-pro-14-2 .overlap-group16-1 {
+  height: 392px;
+  margin-right: 120.91px;
+  margin-top: 46px;
+  position: relative;
+  width: 969px;
+}
+
+.macbook-pro-14-2 .card-9 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  left: 619px;
+  min-height: 220px;
+  padding: 25px 15px;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.macbook-pro-14-2 .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 1.4px;
+  min-width: 315px;
+}
+
+.macbook-pro-14-2 .qevy-3 {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 66px;
+}
+
+.macbook-pro-14-2 .visa-2 {
+  align-self: flex-end;
+  height: 14px;
+  margin-left: 205px;
+  width: 44px;
+}
+
+.macbook-pro-14-2 .card-number-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-left: 2px;
+  margin-top: 63px;
+  min-width: 207px;
+}
+
+.macbook-pro-14-2 .number-4 {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 37px;
+}
+
+.macbook-pro-14-2 .number-5 {
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-height: 22px;
+  min-width: 37px;
+}
+
+.macbook-pro-14-2 .number-6 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 22px;
+  min-width: 34px;
+}
+
+.macbook-pro-14-2 .number-7 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 22px;
+}
+
+.macbook-pro-14-2 .name-expiry-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 14px;
+  margin-top: 55px;
+  min-width: 318px;
+}
+
+.macbook-pro-14-2 .name-3 {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 62px;
+}
+
+.macbook-pro-14-2 .text-1 {
+  letter-spacing: 0;
+  margin-left: 221px;
+  min-height: 14px;
+  width: 31px;
+}
+
+.macbook-pro-14-2 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 353px;
+  left: 0;
+  min-width: 864px;
+  position: absolute;
+  top: 39px;
+}
+
+.macbook-pro-14-2 .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 284px;
+  width: 340px;
+}
+
+.macbook-pro-14-2 .surname-1 {
+  letter-spacing: 0;
+  min-height: 37px;
+  width: 329px;
+}
+
+.macbook-pro-14-2 .startup-plans-1 {
+  letter-spacing: 0;
+  margin-left: 6px;
+  margin-top: 90px;
+  min-height: 37px;
+  width: 195px;
+}
+
+.macbook-pro-14-2 .place-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-top: 83px;
+  min-height: 37px;
+  width: 329px;
+}
+
+.macbook-pro-14-2 .card-container-1 {
+  align-self: flex-end;
+  height: 309px;
+  margin-left: 76px;
+  position: relative;
+  width: 442px;
+}
+
+.macbook-pro-14-2 .card-3-1 {
+  align-items: flex-end;
+  background-image: url(../img/card-3@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  display: flex;
+  height: 220px;
+  left: 92px;
+  min-width: 350px;
+  padding: 9px 14.7px;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-pro-14-2 .overlap-group-2 {
+  height: 185px;
+  position: relative;
+  width: 319px;
+}
+
+.macbook-pro-14-2 .card-details-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 3px;
+  min-height: 168px;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.macbook-pro-14-2 .flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  min-width: 314px;
+}
+
+.macbook-pro-14-2 .flex-col-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 99px;
+  width: 207px;
+}
+
+.macbook-pro-14-2 .qevy-4 {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-bold);
+  font-size: var(--font-size-xxxs);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 66px;
+}
+
+.macbook-pro-14-2 .card-number-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-top: 63px;
+  min-width: 207px;
+}
+
+.macbook-pro-14-2 .ask-mastercard-logo-1 {
+  height: 31px;
+  margin-left: 57px;
+  width: 50px;
+}
+
+.macbook-pro-14-2 .name-expiry-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  margin-top: 55px;
+  min-width: 318px;
+}
+
+.macbook-pro-14-2 .ellipse-3-1 {
+  height: 151px;
+  left: 105px;
+  position: absolute;
+  top: 34px;
+  width: 152px;
+}
+
+.macbook-pro-14-2 .ellipse-6-1 {
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 149px;
+}
+
+.macbook-pro-14-2 .card-7-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 220px;
+  padding: 25px 15px;
+  position: absolute;
+  top: 89px;
+  width: 350px;
+}
+
+.macbook-pro-14-2 .x10-m-in-monthly-volume-1 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 335px;
+  width: 197px;
+}
+
+.macbook-pro-14-2 .post-first-raise-1 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 214px;
+  width: 197px;
+}
+
+.macbook-pro-14-2 .you-define-your-metrics-1 {
+  left: 6px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 93px;
+  width: 251px;
+}
+
+.macbook-pro-14-2 .overlap-group17-1 {
+  align-items: center;
+  background-image: url(../img/rectangle-24@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-right: 128.91px;
+  margin-top: 207px;
+  min-width: 271px;
+  padding: 17px 55.5px;
+}
+
+.macbook-pro-14-2 .get-started-6 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  min-height: 30px;
+  width: 125px;
+}
+
+.macbook-pro-14-2 .line-8 {
+  height: 8px;
+  margin-left: 8px;
+  margin-top: 5.0px;
+  width: 26px;
+}
+
+.macbook-pro-14-2 .our-users-are-happy-1 {
+  letter-spacing: 0;
+  margin-left: 420.09px;
+  margin-top: 249px;
+  min-height: 114px;
+  text-align: center;
+  width: 540px;
+}
+
+.macbook-pro-14-2 .flex-row-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 84px;
+  margin-right: 67.91px;
+  margin-top: 77px;
+  min-width: 1258px;
+}
+
+.macbook-pro-14-2 .unsplash {
+  height: 78px;
+  width: 78px;
+}
+
+.macbook-pro-14-2 .name-4 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 28px;
+  min-height: 74px;
+  width: 172px;
+}
+
+.macbook-pro-14-2 .ceo-enver-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 20.0px;
+  margin-left: 4px;
+  min-height: 22px;
+  min-width: 95px;
+}
+
+.macbook-pro-14-2 .unsplash-qt0og-pnh-gwy-3 {
+  height: 78px;
+  margin-left: 326px;
+  width: 78px;
+}
+
+.macbook-pro-14-2 .overlap-group15-1 {
+  align-self: flex-end;
+  height: 74px;
+  margin-left: 30px;
+  position: relative;
+  width: 447px;
+}
+
+.macbook-pro-14-2 .mehbub-hussain-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 396px;
+}
+
+.macbook-pro-14-2 .first-engineer-fable-1 {
+  left: 279px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 17px;
+}
+
+.macbook-pro-14-2 .flex-col-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 860px;
+  min-height: 484px;
+  position: absolute;
+  top: 6175px;
+  width: 504px;
+}
+
+.macbook-pro-14-2 .overlap-group9-1 {
+  height: 115px;
+  margin-left: 9px;
+  position: relative;
+  width: 451px;
+}
+
+.macbook-pro-14-2 .rectangle-15 {
+  height: 39px;
+  left: 208px;
+  position: absolute;
+  top: 37px;
+  width: 225px;
+}
+
+.macbook-pro-14-2 .rectangle-27 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 106px;
+}
+
+.macbook-pro-14-2 .fable-runs-its-enti-1 {
+  left: 7px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 444px;
+}
+
+.macbook-pro-14-2 .flex-row-12 {
+  align-items: flex-start;
+  display: flex;
   height: 93px;
-  left: 158px;
+  margin-top: 190px;
+  min-width: 504px;
+}
+
+.macbook-pro-14-2 .overlap-group14-1 {
+  align-self: flex-end;
+  height: 74px;
+  margin-left: 30px;
+  position: relative;
+  width: 396px;
+}
+
+.macbook-pro-14-2 .ansh-nanda-1 {
+  left: 0;
+  letter-spacing: 0;
   position: absolute;
-  top: 7140px;
+  top: 0;
+  width: 396px;
+}
+
+.macbook-pro-14-2 .ceo-un1-feed {
+  left: 204px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 17px;
+}
+
+.macbook-pro-14-2 .overlap-group6 {
+  align-self: center;
+  height: 78px;
+  margin-right: 4.0px;
+  margin-top: 8px;
+  position: relative;
+  width: 458px;
+}
+
+.macbook-pro-14-2 .rectangle-16 {
+  height: 43px;
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+
+.macbook-pro-14-2 .un1-feed-is-built-on-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1px;
+  width: 458px;
+}
+
+.macbook-pro-14-2 .flex-col-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 147px;
+  min-height: 1194px;
+  position: absolute;
+  top: 6175px;
+  width: 642px;
+}
+
+.macbook-pro-14-2 .overlap-group5-1 {
+  height: 151px;
+  margin-left: 22px;
+  position: relative;
+  width: 488px;
+}
+
+.macbook-pro-14-2 .rectangle-17 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  width: 444px;
+}
+
+.macbook-pro-14-2 .rectangle-26 {
+  height: 43px;
+  left: 384px;
+  position: absolute;
+  top: 72px;
+  width: 60px;
+}
+
+.macbook-pro-14-2 .before-this-there-w-1 {
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.macbook-pro-14-2 .span1-2 {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+}
+
+.macbook-pro-14-2 .span2-1 {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+}
+
+.macbook-pro-14-2 .overlap-group19-1 {
+  height: 142px;
+  margin-left: 6px;
+  margin-top: 167px;
+  position: relative;
+  width: 404px;
+}
+
+.macbook-pro-14-2 .overlap-group-3 {
+  height: 142px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.macbook-pro-14-2 .overlap-group11-1 {
+  height: 127px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 388px;
+}
+
+.macbook-pro-14-2 .rectangle-23 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 211px;
+}
+
+.macbook-pro-14-2 .market-leader-1 {
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 87px;
+  width: 216px;
+}
+
+.macbook-pro-14-2 .text-5 {
+  left: 212px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 73px;
+  width: 16px;
+}
+
+.macbook-pro-14-2 .name-5 {
+  left: 94px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 263px;
+}
+
+.macbook-pro-14-2 .dhgeth-1 {
+  left: 325px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 17px;
+}
+
+.macbook-pro-14-2 .unsplashf3vw-a-xn7pgg {
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.macbook-pro-14-2 .text-4 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 87px;
+  width: 16px;
+}
+
+.macbook-pro-14-2 .join-the-conversation-1 {
+  letter-spacing: 0;
+  margin-top: 302px;
+  min-height: 114px;
+  text-align: center;
+  width: 540px;
+}
+
+.macbook-pro-14-2 .overlap-group8-1 {
+  align-self: flex-end;
+  height: 93px;
+  margin-top: 89px;
+  position: relative;
   width: 631px;
 }
 
-.macbook-pro-14-2 .x2-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .line {
+  height: 30px;
+  left: 498px;
+  position: absolute;
+  top: 32px;
+  width: 67px;
+}
+
+.macbook-pro-14-2 .rectangle-2 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 631px;
+}
+
+.macbook-pro-14-2 .join-discord-server-1 {
+  left: 154px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 23px;
+  width: 360px;
+}
+
+.macbook-pro-14-2 .image-1-traced-1 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.macbook-pro-14-2 .overlap-group12-1 {
+  align-self: flex-end;
+  height: 93px;
+  margin-top: 43px;
+  position: relative;
+  width: 631px;
+}
+
+.macbook-pro-14-2 .open-an-account-1 {
+  left: 172px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 23px;
+  width: 360px;
+}
+
+.macbook-pro-14-2 .we-are-an-open-commu-1 {
+  left: 158px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 7542px;
+  width: 710px;
+}
+
+.macbook-pro-14-2 .x2 {
   height: 864px;
   left: 936px;
   position: absolute;
@@ -3698,372 +2895,72 @@
   width: 797px;
 }
 
-.macbook-pro-14-2 .join-discord-server-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 312px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 7163px;
-  width: 360px;
-}
-
-.macbook-pro-14-2 .rectangle-22-j85od3 {
-  background-color: transparent;
-  height: 93px;
-  left: 158px;
-  position: absolute;
-  top: 7276px;
-  width: 631px;
-}
-
-.macbook-pro-14-2 .open-an-account-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 330px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 7299px;
-  width: 360px;
-}
-
-.macbook-pro-14-2 .kyle-joyce-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 263px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6081px;
-  width: 172px;
-}
-
-.macbook-pro-14-2 .ceo-enver-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 439px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6094px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .mehbub-hussain-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 968px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6083px;
-  width: 396px;
-}
-
-.macbook-pro-14-2 .first-engineer-fable-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 1247px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6100px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .david-hidalgo-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 263px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6508px;
-  width: 263px;
-}
-
-.macbook-pro-14-2 .dhgeth-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 494px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6525px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .ansh-nanda-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 968px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6499px;
-  width: 396px;
-}
-
-.macbook-pro-14-2 .ceo-un1-feed-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 1172px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 6516px;
-  width: auto;
-}
-
-.macbook-pro-14-2 .line-5-j85od3 {
-  background-color: transparent;
-  height: 1px;
-  left: 0px;
+.macbook-pro-14-2 .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 494px;
   position: absolute;
   top: 7976px;
   width: 1513px;
 }
 
-.macbook-pro-14-2 .qevy-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .line-5 {
+  height: 1px;
+  width: 1513px;
+}
+
+.macbook-pro-14-2 .flex-row-13 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 174px;
+  margin-right: 6.02px;
+  margin-top: 236px;
+  min-width: 1144px;
+}
+
+.macbook-pro-14-2 .title {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: 100px;
-  font-style: normal;
   font-weight: 500;
-  height: 0.79%;
-  left: 11.97%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 94.89%;
-  width: 47.02%;
+  letter-spacing: 0;
+  margin-top: 26px;
+  min-height: 69px;
+  width: 711px;
 }
 
-.macbook-pro-14-2 .california-office-95-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 1090px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 8213px;
-  width: auto;
+.macbook-pro-14-2 .california-office-95-1 {
+  letter-spacing: 0;
+  margin-left: 198px;
+  min-height: 174px;
 }
 
-.macbook-pro-14-2 .rectangle-25-j85od3 {
-  background-color: transparent;
+.macbook-pro-14-2 .overlap-group13-1 {
+  align-items: flex-start;
   border-radius: 4px;
-  height: 0.77%;
-  left: 11.90%;
-  position: absolute;
-  top: 96.76%;
-  width: 18.06%;
+  display: flex;
+  height: 67px;
+  margin-left: 180.49px;
+  margin-top: 15px;
+  min-width: 273px;
+  padding: 18px 56px;
 }
 
-.macbook-pro-14-2 .get-started-o65S7O {
-  background-color: transparent;
-  height: 0.35%;
-  left: 15.67%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 96.98%;
-  width: 8.27%;
+.macbook-pro-14-2 .get-started-7 {
+  letter-spacing: 0;
+  min-height: 30px;
+  width: 125px;
 }
 
-.macbook-pro-14-2 .line-9-j85od3 {
-  background-color: transparent;
-  height: 0px;
-  left: 24.52%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 97.13%;
-  width: 1.69%;
-}
-
-.macbook-pro-14-2 .x12-j85od3 {
-  background-color: transparent;
-  height: 156px;
-  left: 242px;
-  position: absolute;
-  top: 3575px;
-  width: 146px;
-}
-
-.macbook-pro-14-2 .x10-m-in-monthly-volume-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 286px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 5304px;
-  width: 197px;
-}
-
-.macbook-pro-14-2 .post-first-raise-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 286px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 5183px;
-  width: 197px;
-}
-
-.macbook-pro-14-2 .you-define-your-metrics-j85od3 {
-  background-color: transparent;
-  height: auto;
-  left: 281px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 5062px;
-  width: 251px;
-}
-
-.macbook-pro-14-2 .x14-j85od3 {
-  background-color: transparent;
-  height: 198px;
-  left: 891px;
-  position: absolute;
-  top: 3551px;
-  width: 158px;
-}
-
-.macbook-pro-14-2 .x11-j85od3 {
-  background-color: transparent;
-  height: 168px;
-  left: 235px;
-  position: absolute;
-  top: 4037px;
-  width: 156px;
-}
-
-.macbook-pro-14-2 .make-qevy-your-super-power-j85od3 {
-  background-color: transparent;
-  height: 0.89%;
-  left: 56.75%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 50.78%;
-  width: 29.56%;
-}
-
-.macbook-pro-14-2 .image-1-traced-j85od3 {
-  background-color: transparent;
-  height: 1.07%;
-  left: 10.45%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 82.23%;
-  width: 6.15%;
-}
-
-.macbook-pro-14-2 .image-2-traced-j85od3 {
-  background-color: transparent;
-  height: 0.44%;
-  left: 11.57%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 10.85%;
-  width: 12.04%;
-}
-
-.macbook-pro-14-2 .group-7-j85od3 {
-  background-color: transparent;
-  height: 0.43%;
-  left: 74.01%;
-  position: absolute;
-  top: 10.86%;
-  width: 14.81%;
-}
-
-.macbook-pro-14-2 .image-4-traced-0rIeRv {
-  background-color: transparent;
-  height: 100.06%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 90.62%;
-}
-
-.macbook-pro-14-2 .pro-0rIeRv {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-xs);
-  font-style: italic;
-  font-weight: 500;
-  height: auto;
-  left: 152px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 9px;
-  width: 70px;
-}
-
-.macbook-pro-14-2 .enverlogo-1-1-traced-j85od3 {
-  background-color: transparent;
-  height: 0.30%;
-  left: 33.93%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 10.95%;
-  width: 12.43%;
-}
-
-.macbook-pro-14-2 .image-3-traced-j85od3 {
-  background-color: transparent;
-  height: 0.84%;
-  left: 58.27%;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 10.69%;
-  width: 5.22%;
+.macbook-pro-14-2 .line-9 {
+  align-self: center;
+  height: 8px;
+  margin-left: 8px;
+  margin-top: 3.0px;
+  width: 26px;
 }
 @media screen and (max-width: 1511px) {
   .screen.macbook-pro-14-2 { 
