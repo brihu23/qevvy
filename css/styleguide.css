@@ -1,0 +1,127 @@
+:root { 
+  --black: #000000;
+  --mist-gray: #c4c4c4;
+  --nobel: #b1b1b1;
+  --star-dust: #9b9b9b;
+  --white: #ffffff;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 30px;
+  --font-size-s: 24px;
+  --font-size-xl: 52px;
+  --font-size-xs: 20px;
+  --font-size-xxs: 18px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-craftwork_grotesk-bold: "Craftwork Grotesk-Bold", Helvetica;
+  --font-family-craftwork_sans-bold: "Craftwork Sans-Bold", Helvetica;
+  --font-family-craftwork_sans-medium: "Craftwork Sans-Medium", Helvetica;
+  --font-family-craftwork_sans-regular: "Craftwork Sans-Regular", Helvetica;
+  --font-family-gilroy-medium-☞: "Gilroy-Medium-☞", Helvetica;
+}
+.craftworksans-medium-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium--normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-medium-☞);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.craftworksans-medium-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-nobel-20px {
+  color: var(--nobel);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium--normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-medium-☞);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.craftworksans-regular-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.craftworksans-medium-white-52px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-mist-gray-18px {
+  color: var(--mist-gray);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-white-30px-2 {
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-star-dust-20px {
+  color: var(--star-dust);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-white {
+  border: 1px solid var(--white);
+}
