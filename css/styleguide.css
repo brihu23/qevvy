@@ -18,7 +18,16 @@
   --font-family-craftwork_sans-medium: "Craftwork Sans-Medium", Helvetica;
   --font-family-craftwork_sans-regular: "Craftwork Sans-Regular", Helvetica;
   --font-family-gilroy-medium-☞: "Gilroy-Medium-☞", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
 }
+.craftworksans-medium-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .craftworksans-medium-white-30px {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
@@ -35,30 +44,6 @@
   font-weight: 400;
 }
 
-.craftworksans-medium-white-35px {
-  color: var(--white);
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.craftworksans-medium-nobel-20px {
-  color: var(--nobel);
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.craftworksans-medium-black-30px {
-  color: var(--black);
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
 .gilroy-medium--normal-white-12px {
   color: var(--white);
   font-family: var(--font-family-gilroy-medium-☞);
@@ -67,41 +52,10 @@
   font-weight: 400;
 }
 
-.craftworksans-regular-normal-white-24px {
-  color: var(--white);
-  font-family: var(--font-family-craftwork_sans-regular);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.craftworksans-medium-white-52px {
+.craftworksans-medium-white-35px {
   color: var(--white);
   font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.craftworksans-medium-mist-gray-18px {
-  color: var(--mist-gray);
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.craftworksans-medium-white-30px-2 {
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.craftworksans-medium-black-24px {
-  color: var(--black);
-  font-family: var(--font-family-craftwork_sans-medium);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 500;
 }
@@ -114,10 +68,89 @@
   font-weight: 500;
 }
 
+.craftworksans-medium-mist-gray-18px {
+  color: var(--mist-gray);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-regular-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.craftworksans-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-nobel-20px {
+  color: var(--nobel);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .craftworksans-medium-star-dust-20px {
   color: var(--star-dust);
   font-family: var(--font-family-craftwork_sans-medium);
   font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-white-52px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworksans-medium-nobel-18px {
+  color: var(--nobel);
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.craftworkgrotesk-bold-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-craftwork_grotesk-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.craftworksans-medium-white-30px-2 {
+  font-family: var(--font-family-craftwork_sans-medium);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 500;
 }
